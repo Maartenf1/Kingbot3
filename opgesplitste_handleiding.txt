@@ -1,0 +1,1317 @@
+### Journaalpost op tussenrekening inkoop
+Factuur boeken en koppelen aan ontvangst
+Zodra de magazijnontvangst is verwerkt kan aan de hand hiervan een inkoopfactuur worden geboekt.
+Ga hiervoor naar: Financieel > Invoeren voorlopige journaalposten
+Selecteer het dagboek (vaak is dit Inkoop)
+Vul bij rekeningnummer de leverancier in.
+Voer de factuurdatum en het factuurnummer van de leverancier in.
+Selecteer de optie toevoegen en kies bij de volgende regel voor de Tussenrekening inkopen
+Klik in Fact./Ref.nr. en vervolgens op de “i“
+Het onderstaande scherm komt naar voren.
+Markeer de magazijnontvangst en door te zoeken op het ontvangstnummer in kolom Referentienummer
+Klik vervolgens op Gemarkeerde overnemen
+Invoeren voorlopige journaalposten tussenrek inkoop refnr
+Boek vervolgens eventuele transportkosten of overige kosten.
+Als er nog een saldo overblijft kun je dit op een rekening voor prijsverschillen boeken.
+Met de sneltoets F7 in het veld bedrag vul je direct het bedrag in om de boeking in balans te maken
+Het saldo van de boeking moet 0,00 zijn onderin het scherm...
+
+### Omzetgroep aanmaken
+Aan elk artikel wordt een opbrengstgroep gekoppeld. Per opbrengstgroep kan worden ingesteld op welke grootboekrekening onder andere de kostprijs, verkoopprijs en voorraad geboekt moet worden.
+De eerste stap is het toevoegen van een artikel. Dit kan via Artikelen > Artikelen. Rechts staat dan de knop Toevoegen.
+Artikel aanmaken
+Artikelnummer: Hier moet een artikelnummer ingevuld worden. 
+Zoekcode: Hier kan een zoekcode van het artikel ingevuld worden. Een zoekcode is vaak voor eigen herkenning, een korte versie van de omschrijving.
+Omschrijving: Hier kan de omschrijving van het artikel ingevuld worden.
+Opbrengstgroep: Onder het tabblad Algemeen staat de opbrengstgroep van het aan te maken artikel. Wanneer op het vakje achter de opbrengstgroep geklikt wordt, wordt de ‘i’ knop zichtbaar. Wanneer hier op geklikt wordt, verschijnen alle al aangemaakte opbrengstgroepen. In het rechtermenu staat Toevoegen, hier kan een nieuwe opbrengstgroep aangemaakt worden. Onderstaand venster verschijnt dan:
+Opbrengstgroep gegevens
+Groep: Hier wordt het nummer van de opbrengstgroep ingevuld. (3 cijfers oplopend)
+Omschrijving: Dit is de omschrijving van de opbrengstgroep. (zelfde als het artikel) 
+Soort: Geef hieraan of de opbrengstroep bestemd is voor levering van goederen of voor levering van diensten. Dit is belangrijk voor de ICP-aangifte.
+Onder de streep:
+Grootboekrekeningen: Op deze grootboekrekeningen worden o.a. de opbrengsten, kosten en voorraad van de opbrengstgroep geboekt.  
+Door op het vakje Rekening te klikken, en nogmaals op de ‘i’, verschijnen alle al aangemaakte grootboekrekeningen. In het rechtermenu kan via Toevoegen een nieuwe grootboekrekening aangemaakt worden.
+Het onderstaande venster verschijnt:
+Grootboekrekeninggegevens
+Onderstaande onderdelen dienen ingevuld te worden:
+Nummer: Het nummer is uniek voor een grootboekrekening en kan achteraf niet gewijzigd worden.
+Zoekcode: Hier kan een zoekcode ingevuld worden van de grootboekrekening.
+Naam: De rekeningnaam is de omschrijving van de grootboekrekening. Dit is hetzelfde als de omschrijving van het artikel en de opbrengstgroep.
+Rekeningsoort: Resultaten/opbrengst vullen.
+Een bestaande grootboekrekening NIET wijzigen, dit gooit de historie in de war!...
+Versturen van een kopie pakbon
+Het is mogelijk om vanuit KING een kopie van een pakbon te sturen naar de desbetreffende debiteur.
+Ga naar Verkopen > Uitleverhistorie
+Aan de hand van onderstaande criteria kan er gezocht worden naar de juiste pakbon.
+Klik na het invullen van de criteria op Nu zoeken
+Uitleverhistorie
+Selecteer de juiste pakbon en klik op Bestand
+Selecteer de juiste lay-out door op ‘i’ te klikken en klik vervolgens op Akkoord
+Selecteer vervolgens een afdrukformaat door op ‘i’ te klikken.
+Onder Afdrukformaat is het gekozen formaat te zien
+Onder Bestandsnaam is het bestandspad en de bestandsnaam van het document te zien
+Het Onderwerp en Bericht worden aan de hand van het afdrukformaat gevuld. Dit kan aangepast worden indien wenselijk.
+De gegevens van de Afzender worden op basis van het afdrukformaat ingevuld.
+Selecteer de optie Aanmaken. De kopie pakbon wordt nu verzonden.
+Afdrukformaat pakbon
+⚠️ **Waarschuwing:** De pakbon wordt niet verwerkt binnen KING, alleen verzonden!...
+
+### Pro-forma aanmaken vanuit order
+Het is mogelijk om vanuit een order een pro-forma factuur aan te maken. Dit kan gelijk na het aanmaken van een order of via een openstaande order. Hieronder staan de stappen die genomen worden om een pro-forma aan te maken vanuit een order.
+Open de desbetreffende order
+Selecteer de optie Afdrukken
+Selecteer de optie Proforma-nota
+Selecteer de optie Verwerken 
+Indien Printer selecteren staat ingesteld klik je op OK
+Als dit niet ingesteld is, wordt het automatisch verwerkt aan de hand van de ingestelde instellingen.
+Afdrukken pro-forma
+Pro-forma aanmaken vanuit KING startscherm
+Het is mogelijk om vanuit het startscherm te starten met het aanmaken van een pro-forma.
+Ga naar Verkopen > Afdrukken proforma- nota’s
+Maak een selectie van de orders waarvoor een pro-forma aangemaakt moet worden.
+Selecteer de optie Verwerken
+Indien Printer selecteren staat ingesteld klik je op OK
+Als dit niet ingesteld is, wordt het automatisch verwerkt aan de hand van de ingestelde instellingen...
+
+### Vrije rubriek Offertes
+Binnen de offertes is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per offerte. 
+Vrije rubrieken
+Ga naar Verkopen > Offertes > Vaste gegevens offertes.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de offertes zijn te vinden onder Verkopen > Offertes > kies de desbetreffende offerte > Versie > Vrije rubrieken.
+De vrije rubrieken met van de offertes zijn ook te vinden onder Verkopen > Offerteversies > kies de desbetreffende offerteversie > Versie > Vrije rubrieken.
+Belangrijk:
+Als de vrije rubriek binnen de offerte en orders volledig overeenkomt (Naam, type en lengte), dan worden de gegevens vanuit de offerte automatisch bij de vrije rubriek van de order ingevuld...
+
+### Bestelling verwerken zonder e-mail of PDF te versturen
+Ga naar de bestelling die verwerkt moet worden.
+Klik onderaan op Verwerken
+Er komt nu een ander scherm in beeld.
+Kies bij Bestelbrief afdrukken voor Nee
+Klik daarna weer op Verwerken...
+
+### Dropshipping
+Dropshipment
+Een enkele keer zal je een product willen bestellen bij de leverancier om direct te laten leveren bij de klant.
+Hiervoor dien je twee zaken aan te passen voordat dit mogelijk is:
+Inkoopgegevens bij de leverancier
+Inkoopgegevens bij het artikel
+Inkoopgegevens bij Leverancier
+Open de stamkaart van de leverancier en ga naar het tabblad Inkoop
+Vink Inkoopgegevens bijhouden aan
+Vink Directe leveringen toegestaan aan
+Selecteer Toegestaan, default niet via directe levering
+Met deze instelling zorg je ervoor dat elk nieuw product, gekoppeld aan deze leverancier, de juiste instellingen krijgt zodat je bovengenoemde stappen kunt volgen.
+De instelling geeft aan dat je bij uitzondering voor dropshipment wilt kiezen. Alle overige inkopen worden standaard besteld en afgeleverd in jullie magazijn.
+Inkoopgegevens bij het Artikel
+Zodra je bij de leverancier de instellingen goed hebt staan en daarna de artikelen aanmaakt, zal bij het artikel onder het tabblad Inkoop de instelling Directe levering meteen goed staan. Dit moet staan op Toegestaan, default niet via directe levering.
+Vaak is dit niet het geval en bestaan de artikelen al waardoor de instellingen in basis nog niet juist zijn geselecteerd. Voor dit product en deze leverancier dien je de instelling aan te passen. Dit kan handmatig maar bij een groot aantal artikelen is het verstandig om het KING Expert Center te bellen voor de omzetting.
+Dropshipment invoeren
+Zodra de instellingen bij de leverancier en het artikel goed staan dien je de volgende stappen te volgen.
+Maak een order aan met het product.
+Zet het product in backorder door het veld Deze levering op 0 te zetten.
+Via het tabblad Directe inkoop kun je de order rechtstreeks bestellen en laten leveren aan je klant.
+      4. Plaats het vinkje bij Directe inkoop
+      5. De standaard leverancier en inkoopeenheid van het product wordt gekoppeld. Wil je hier vanaf wijken, dan dien je een leverancier te kiezen via het veld Leverancier.
+      6. Onderin vind je de knop Besteladvies om het advies te genereren.
+Uitzondering
+In ons voorbeeld hebben we gekozen om 1 stuk te bestellen/leveren. Bij de stamkaart van dit artikel, bij het tabblad Inkoop, hebben we ingesteld dat de minimumafname 40 stuks is. Hierdoor zal KING 40 stuks willen bestellen. Waardoor je 1 verkoopregel ziet en een aanvulling van 39 stuks. Mocht de minimumafname op 1 staan dan is er alleen een verkoopregel zichtbaar.
+Besteladvies bestellen
+      7. Druk vervolgens op Eén bestelling
+      8. Vul bij Bestemming de juiste debiteur in. En druk daarna op de knop Verwerken
+          Mocht je met de uitzondering te maken dan kun je de debiteur nog niet toekennen. Ga daarvoor naar stap 10.
+      9. Controleer of het adres van de klant op de bestelbrief komt via de knop Voorbeeld. Sluit het voorbeeldscherm en klik
+          vervolgens op de knop Verwerken.
+     10. Ga naar het tabblad Bestelregel. Ga op het veld magazijn
+           staan en druk op de knop verwijderen.
+     11. Wijzig vervolgens het aantal in het veld Aantal besteld naar
+           het aantal juiste aantal wat besteld moet worden voor de
+           order. Je zult onderstaande melding krijgen. Je kiest dan voor
+           Doorgaan.
+     12. Ga terug naar stap 8.
+Verwerken dropshipmentorder
+Zodra de leverancier de goederen heeft afgestuurd/afgeleverd ontvangen jullie een pakbon/factuur. Met dit document kun je de dropshipment registreren en afronden.
+Voorraad >Directe leveringen > Registreren directe leveringen.
+Vul de velden aan zoals Afleverdatum, Pakbonnummer en Fact./ref.nr.
+Ga naar het tabblad Afleverregel
+Selecteer aan de rechterkant de knop Info Bestelling
+Selecteer de bestelling die direct is geleverd
+Advies: haal de kolom met Debiteurnaam/plaats naar voren.
+De regels van de bestelling worden nu gevuld voor de directe registratie.
+ In het geval van een product met serienummer dient het veld serienummer gevuld te worden voor een volledige registratie.
+Druk vervolgens op de knop Verwerken...
+
+### Bestelling aanmaken
+Handmatig bestellen
+Bestelling plaatsen
+Om een bestelling te plaatsten bij de leverancier ga je naar;
+Voorraad > Bestellingen > Invoeren bestellingen
+Eerst moet de leverancier worden geselecteerd voor wie de bestelling bestemd is.
+Vervolgens volgt het invoerscherm van de bestelling. De referentie, ontvangstdatum, magazijn en inkoper kunnen hier worden ingevuld.
+Bestelling invoeren
+De volgende stappen neem je om een bestelling in te voeren.
+Ga naar het tabblad Bestelregel.
+Selecteer de optie Toevoegen.
+Zoek het juiste artikel en selecteer dit artikel.
+Geef bij Aantal besteld de hoeveelheid aan.
+Als je meerdere regels wilt hebben in 1 bestelling, klik je op Toevoegen.
+Herhaal hierbij de vorige stappen.
+Bestelling verwerken
+Is de bestelling goedgekeurd, dan kan je de bestelling verwerken. Aan de hand van de instellingen van de leverancier wordt de bestelbrief geprint of gemaild.
+Onderin je scherm klik je op het knopje Verwerken
+Klik in het nieuw geopend scherm nogmaals op Verwerken
+Je bestelling is nu verwerkt en kan bij ontvangst van de goederen worden omgezet tot een magazijnontvangst.
+Bestellen met besteladvies
+Het is ook mogelijk om een bestelling te maken met een besteladvies.
+Een besteladvies is gebaseerd op minimale/maximale voorraad, productie en orders.
+Het besteladvies kun je vinden bij: Voorraad > Bestellingen > Besteladviezen.
+Selecteer de optie Toevoegen om een besteladvies aan te maken.
+Maak eventueel een selectie van de artikelen en/of leveranciers.
+Klik vervolgens onderin op de knop Besteladvies.
+Dit genereert een schema van artikelen die besteld moeten worden.
+Besteladvies
+In het bovenste vlak zie je per product wat er besteld gaat worden per leverancier.
+In het onderste vlak staan de leveranciers met het aantal regels inclusief bedrag te bestellen over alle regels.
+Zodra je in het onderste vlak een leverancier selecteert dan zie je in het bovenste vlak de artikelregels vet gedrukt worden die van toepassing zijn voor de geselecteerde leverancier.
+Je kunt er ook voor kiezen om de regels anders te tonen door de selectie aan de rechterzijde aan te passen naar “van geselecteerde totaalregels”. Je ziet dan alleen de regels per leverancier die je hebt geselecteerd.
+Vervolgens kan je rechts onderin kiezen tussen Eén bestelling of Alle bestellingen.
+Kies hierbij dus of je alleen voor de geselecteerde leverancier wilt bestellen of het gelijk bij alle leveranciers wilt bestellen. De meeste bedrijven kiezen voor Eén bestelling.
+Klik hiernaar op Doorgaan. Je komt nu in de bestelling. Pas in de bestelling nog de aantallen aan, verwijder regels of voeg regels toe mocht dit nodig zijn.
+Selecteer de optie Verwerken om de bestelling te plaatsen.
+Let op!
+Alleen artikelen die zijn aangevinkt met ‘meenemen in besteladviezen’ komen in het besteladvies naar voren. Je vind deze instelling onder de Artikelkaart -> tabblad Algemeen...
+
+### Magazijnontvangsten
+Magazijnontvangst aanmaken
+Wanneer je goederen binnenkomen is het tijd om een magazijnontvangst te maken.
+Ga naar hiervoor naar: Voorraad > 
+
+### Magazijnontvangsten
+ > Invoeren magazijnontvangsten.
+Selecteer de debiteur
+Onder het kopje ontvangstregel kunnen de ontvangstgegevens worden ingevuld.
+Voor het koppelen van een bestelling, klik je op Info bestelling.
+Selecteer de optie de desbetreffende bestelling die binnen is gekomen.
+Vervolgens klik je op Selecteren.
+Controleer de bestelling en klik op Overnemen.
+Als er van de binnengekomen goederen geen bestelling aanwezig is, klik je op Toevoegen en selecteer je de binnengekomen artikelen handmatig.
+Heb je minder goederen ontvangen dan je hebt besteld? Pas dan het Aantal ontvangen goederen aan.
+Klik vervolgens op Overnemen
+Nu opent het scherm Verwerken magazijnontvangsten
+Klik nogmaals op Verwerken.
+De voorraad wordt nu opgeboekt
+Magazijnontvangst vanuit een bestelling
+Wanneer je goederen binnenkomen is het tijd om een magazijnontvangst te maken. Dit is mogelijk om vanuit je openstaande bestellingen te doen. Ga hiervoor naar:
+Voorraad > Bestellingen > Openstaande bestellingen.
+Selecteer de bestelling waarvan de goederen zijn binnengekomen.
+Selecteer de optie de knop Mag. Ontvangst.
+Heb je minder goederen ontvangen dan je hebt besteld? Pas dan het Aantal ontvangen goederen aan
+Klik vervolgens op Verwerken
+Nu opent het scherm Verwerken magazijnontvangsten
+Klik nogmaals op Verwerken
+De voorraad wordt nu opgeboekt...
+Vrije rubriek Bestellingen
+Binnen de bestellingen is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per bestelling. 
+Vrije rubrieken
+Ga naar Voorraad > Bestellingen > Vaste gegevens bestellingen.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan de volgorde van de rubrieken veranderen.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de bestellingen zijn te vinden onder Voorraad > Bestellingen > Alle openstaande bestellingen > desbetreffende bestelling > Vrije rubrieken.
+Belangrijk:
+Als de vrije rubriek binnen de crediteuren en bestellingen volledig overeenkomt (Naam, type en lengte), dan worden de gegevens vanuit de crediteur automatisch bij de vrije rubriek van de bestelling ingevuld...
+Vrije rubriek Orders
+Binnen de orders is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per order. 
+Vrije rubrieken 
+Ga naar Verkopen > Vaste gegevens orders/facturering.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Orders of Orderregels.
+Selecteer de optie Toevoegen om een vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in dit scherm Orderregels. In dit scherm worden dan alleen de vrije rubrieken van de orderregels weergegeven en de knoppen rechts in dit scherm hebben dan ook alleen betrekking op de vrije rubrieken van de orderregels.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt
+weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden
+aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld
+- 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal
+is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije
+rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de orders zijn te vinden onder Verkopen > Openstaande orders > desbetreffende order. Kies vervolgens het tabblad Vrije rubrieken.
+De vrije rubrieken met betrekking tot de orderregels zijn te vinden onder Verkopen > Openstaande orders > desbetreffende order. Kies vervolgens het tabblad Orderregel. Onder het tabblad orderregel kies je vervolgens het tabblad Vrije rubrieken...
+Vrije rubriek Productie
+Binnen de productie is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per recept of productie-order. 
+Vrije rubrieken Productie
+Ga naar Voorraad > Productie > Vaste gegevens productie.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Recepten of Productie order.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in het scherm Recepten. In dit scherm worden dan alleen de vrije rubrieken van de recepten weergegeven en de knoppen rechts in dit scherm hebben dan ook alleen betrekking op de vrije rubrieken van de recepten.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de recepten zijn te vinden onder Voorraad  > Productie > Recepten. Selecteer het desbetreffende recept en klik op Wijzigen.
+ De vrije rubrieken met betrekking tot de productie orders zijn te vinden onder Voorraad  > Productie > Productie orders. Selecteer de desbetreffende productieorder en klik op Wijzigen..
+Vrije rubriek Locaties
+Binnen de locaties is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per locatie. 
+Vrije rubrieken
+Ga naar Stamgegevens > Magazijnen > Vaste gegevens locaties.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de locaties zijn te vinden onder Stamgegevens > Magazijnen > Magazijnen > desbetreffend magazijn.
+Klik vervolgens op Wijzigen.
+Ga naar tabblad Locaties en klik op Wijzigen....
+Vrije rubriek Artikelen
+Binnen de artikelen is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per artikel. 
+Vrije rubrieken
+Ga naar Artikel > Vaste gegevens Artikelen.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Artikelen of Partijen.  
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in het scherm Artikelen. In dit scherm worden dan alleen de vrije rubrieken van de artikelen weergegeven en de knoppen rechts in dit scherm hebben dan ook alleen betrekking op de vrije rubrieken van de artikelen.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort rubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de artikelen zijn te vinden onder Artikelen > Artikelen > desbetreffend artikel > Vrije rubrieken.
+De vrije rubrieken met betrekking tot de partijen zijn te vinden onder Artikelen > Artikelen > desbetreffend artikel > Partijen. Ga vervolgens naar Overzicht partijen. Je kan de vrije rubrieken in dit overzicht toevoegen door boven in de balk naar Weergeven > Vrije rubrieken partijen te gaan en de desbetreffende vrije rubrieken aan te klikken.
+TIP!
+Als de vrije rubriek binnen de artikelen en orderregels volledig overeenkomt (Naam, type en lengte), dan worden de gegevens vanuit het artikel automatisch bij de vrije rubriek van de order ingevuld...
+Artikelen aanmaken
+Aanmaken artikel
+Artikelen > Artikelen.
+Selecteer de optie Toevoegen.
+Vul het Artikelnummer in. Dit is een verplicht unieke nummer voor de gehele administratie.
+Vul de Zoekcode in. Dit kan worden gebruikt voor het terugvinden van een artikel.
+Vul de Omschrijving in. Dit is de omschrijving van het artikel.
+Tabbladen
+Tip:
+Je kunt bij Weergeven > Default Tabkaart instellen met welk tabblad je standaard wilt openen.
+Dashboard
+Het dashboard toont je in één oogopslag belangrijke financiële informatie. De volgende dashboard-items worden via instellingen getoond (een en ander afhankelijk van de gebruikersrechten en indien gegevens aanwezig)
+Algemeen
+Hier kunnen de algemene instellingen van het product worden doorgevoerd.
+Aan elk artikel wordt een opbrengstgroep gekoppeld. Per opbrengstgroep kan worden ingesteld op welke grootboekrekening de kostprijs, verkoopprijs, voorraad, enz. geboekt moet worden.
+Bij BTW-code verkoop wordt het BTW nummer ingevoerd dat gebruikt moet worden tijdens het invoeren van een order.
+Bij BTW-code inkoop wordt het BTW nummer ingevoerd dat gebruikt moet worden gemaakt bij de inkoop van de artikelen.
+Het vakje achter Web-artikel moet aangevinkt zijn als het gaat om een artikel dat wordt gebruikt in combinatie met een webshop.
+Het artikel wordt alleen afgedrukt op de besteladvieslijst (en meegenomen in de Automatische bestellingen) als het vakje Meenemen in besteladviezen wordt geselecteerd.
+Als het vakje Kostprijs wijzigen bij orderinvoer wordt geselecteerd, kan bij het invoeren van offertes en verkooporders de kostprijs van het artikel worden gewijzigd.
+EAN-Codes
+De EAN-codes van het desbetreffende artikel wordt hier weergegeven.
+Selecteer de optie de knop Wijzigen, Toevoegen of Verwijderen, rechts op de tabkaart, om de EAN-codes van dit artikel te muteren. Bij Wijzigen of Toevoegen kom je in het venster EAN-codegegevens.
+Bij Soort code wordt aangegeven om wat voor soort EAN-code het gaat. 
+Bij Standaard staat een vinkje als deze EAN-code de standaard-EAN-code is van dit artikel.
+Omschrijvingen
+Hier kan per taalcode een artikelomschrijving (‘Tekst op factuur’) in worden gevoerd, die op o.a. de factuur of de pakbon kan worden afgedrukt.
+Per taalcode kun je voor dit artikel een eigen tekst invoeren.
+Via het menu onder de rechtermuisknop kun je de interne artikelomschrijving overnemen als Tekst op factuur.
+Selecteer het vakje achter Wijzigen bij orderinvoer als je tijdens het kiezen van een Artikel bij de invoer van een order, offerte of project, de Tekst op factuur van dit artikel wilt wijzigen.
+Laat je het vakje leeg, dan wordt de Tekst op factuur in eerste instantie overgeslagen, maar kan dan nog wel worden gewijzigd.
+Voorraadeenheid
+Hier komt de eenheid waarin de voorraad van dit artikel wordt bijgehouden te staan. Het is verplicht om dit in te voeren. De EAN-code van de voorraadeenheid mag niet bij meerdere voorraad- of verkoopeenheden in gebruik zijn. Het mag wel bij een inkoopeenheid in gebruik zijn, de inkoopeenheid kan immers ook een verkoopeenheid zijn. Bij Standaard verkoopeenheid kan worden aangegeven of deze voorraadeenheid de standaard verkoopeenheid is.
+Onder tabblad prijzen kunnen de prijzen worden ingesteld.
+Onder tabblad algemeen kunnen de algemene artikelgegevens worden ingevuld.
+Inkoopgegevens
+De leverancier(s) van het desbetreffende artikel kan hier worden ingevuld. Met de standaardversies van King kun je per artikel één leverancier bijhouden (en dat is dan de standaardleverancier). Per leverancier kun je de inkoopeenheid en inkoopprijzen bijhouden. Dit kan onder tabbladen inkoopeenheid en inkoopprijzen.
+Voorraad
+De voorraadaantallen kunnen hier worden ingezien. In de standaardversie Handel zijn twee magazijnen en kun je per artikel per magazijn één locatie bijhouden.
+Met de optie Magazijnen zijn 1000 magazijnen mogelijk en kun je een artikel per magazijn op verschillende locaties onderbrengen. De magazijnen worden weergegeven in de bovenste tabel.
+Bij het standaardmagazijn en de standaardlocatie van dit artikel zet je een vinkje in de kolom Standaard.
+Deze magazijnlocatie is de default bij o.a. het invoeren van magazijnontvangsten en verkooporders voor dat artikel.
+Het default-magazijn dat je in programma Default-magazijnen per gebruiker kunt opgeven, wordt gebruikt bij artikelen waarvoor geen standaardmagazijn is opgegeven.
+Zonder de optie Magazijnen kun je in de onderste tabel, bij Standaardmagazijn, aangeven welk magazijn het default-magazijn is van dit artikel.
+Wijzig je de locatie van het artikel en beschik je niet over de optie Magazijnen, dan wordt die wijziging ook doorgevoerd in de openstaande orders, werkbonnen, projectmutaties en productieorders.
+Met de knop Toevoegen kun je aan dit artikel een nieuwe locatie koppelen. Die koppeling kun je weer verwijderen met de knop Verwijderen (de locatie zelf wordt dan niet verwijderd, alleen de koppeling tussen artikel en locatie).
+Belangrijk:
+Verwijderen is alleen mogelijk als er op die locatie geen voorraad van dit artikel aanwezig is en deze locatie met dit artikel niet voorkomt in een magazijnontvangst of verkooporder.
+Afbeelding
+Deze tabkaart is alleen beschikbaar vanaf King Handel en/of bij de optie Webwinkel en/of bij de optie Info artikelen. Je kunt hier de artikelafbeeldingen selecteren die weergegeven worden in programma Info artikelen en in de Webwinkel. De afbeeldingen kunnen ook in de lay-outs worden opgenomen en worden afgedrukt.
+Toegestaan zijn bestanden van het type bmp, gif, jpeg, png, ico, emf en wmf. De afbeeldingen dien je op te nemen in de directory, die in programma Vaste gegevens artikelen voor dat doel is opgegeven, of in een subdirectory daarvan. Hier kun je de bestandsnaam en eventueel het bestandspad invullen (maximaal 80 posities). Een bewegende afbeelding kan wel worden geselecteerd, maar beweegt alleen in de webwinkel en niet in King.
+Vrije rubrieken
+De extra invoerrubrieken die je binnen de vaste artikelgegevens hebt gedefinieerd, kun je in deze tabkaart invullen. Klik met de rechtermuisknop op de vrije rubrieken om ze op een andere manier in te delen (dit wordt per gebruiker onthouden).
+TIP!
+Als de vrije rubriek binnen de artikelen en orderregels volledig overeenkomt worden de gegevens vanuit het artikel automatisch bij de vrije rubriek van de orderregel ingevuld binnen de order.
+Aanmaken opbrengstgroep vanuit artikel
+Ga naar een artikel toe en klik op wijzigen.
+Ga naar tabblad Algemeen.
+Selecteer de optie het vakje achter opbrengstgroep.
+Selecteer de optie letter I.
+Klik vervolgens op Toevoegen.
+Vul het nummer in van de nieuwe opbrengstgroep.
+Vul de omschrijving in.
+Geef aan of de opbrengstgroep bestemd is voor levering van goederen of voor levering van diensten.
+Vul de grootboekrekeningen in.
+Als je op Standaard klikt worden alle standaard rekeningnummers ingevuld. De standaard rekeningnummers zijn de paragraafnummers, zie paragrafen, gevolgd door het nummer van de opbrengstgroep.
+Als je zelf een grootboekrekening wilt koppelen doe je dat op de volgende manier.
+Selecteer de optie wijzigingen.
+Ga vervolgens naar de soort boeking waar je de rekening wil wijzigen.
+Klik eerst in het vakje onder Rekening om vervolgens op I te klikken. Hier verschijnen alle al aangemaakte grootboekrekeningen.
+Selecteer de rekening die gekoppeld moet worden. Hier kan je eventueel ook een nieuwe grootboekrekening aanmaken. Om dit te doen klik je op Toevoegen.
+Voor een grootboekrekening kies je vervolgens een uniek getal. Deze kan achteraf niet meer gewijzigd worden.
+Vul een zoekcode voor de grootboekrekening in.
+De rekeningnaam is de omschrijving van de grootboekrekening.
+Vul bij rekeningsoort in om wat voor type grootboekrekening het gaat.
+Belangrijk:
+Een bestaande grootboekrekening mag je niet wijzigen! Dit gooit de historie in de war...
+Orders invoeren en verwerken
+Orders invoeren
+Verkopen > Invoeren orders.
+Kies  de debiteur voor wie je een order wil invoeren.
+Ga naar tabblad Orderregel.
+Selecteer de optie toevoegen.
+Selecteer eerst of het om een Artikel, Tarief of Tekstregel.
+Klik vervolgens op “I” om het artikelnummer op te zoeken en in te voeren.
+Vul vervolgens het aantal in dat je wilt bestellen.
+Ga naar tabblad Algemeen.
+Achter Deze levering staat het aantal eenheden dat bij de eerstvolgende levering van deze order wordt uitgeleverd. Dit aantal kan worden verlaagd mocht je niet alles gelijk willen leveren.
+Achter nu te factureren staat het aantal eenheden dat bij de eerstvolgende facturering wordt gefactureerd. Dit aantal kan worden gewijzigd zodat de artikelen later kunnen worden gefactureerd.
+TIP!
+Als de vrije rubriek binnen de debiteuren en orders volledig overeenkomt worden de gegevens vanuit het artikel automatisch bij de vrije rubriek van de order ingevuld.
+Verwerken orders
+De orders in KING kunnen verschillende statussen hebben. Daarmee wordt aangegeven waar de order in het proces zich bevindt. Dit is te zien onder tabblad Status.
+Zet de order op Goedgekeurd.
+Als een order de status goedgekeurd heeft worden de artikelen van de vrije voorraad af getrokken. In KING heet dat gereserveerd. Je vindt dit terug onder reserveringen: Voorraad > Reserveringen. De order is in KING genoteerd, maar er is nog niets mee gedaan.
+Geef de order vrij voor verzamellijst.
+Bij deze status weet je dat de order in behandeling is. De status krijgt een vinkje als de knop Verzamellijst is gebruikt. Wanneer het werkelijk aantal goederen in de order is verwerkt dan wordt de status van de laatste verwerking aangepast.
+Geef de order vrij voor levering.
+Zodra de status vrijgegeven voor levering is aangevinkt kan er een pakbon worden geprint. Dit doe je door op de knop Leveren te drukken. Klik vervolgens op Verwerken. Er wordt nu automatisch een financiële boeking gemaakt. De voorraad wordt afgeboekt en er wordt op een tussenrekening geboekt. Na het leveren van de goederen kan de factuur worden verzonden.
+Geef de order vrij voor facturering.
+Selecteer de optie Afdrukken.
+Selecteer de optie Verwerken.
+Bij het afdrukken van de facturen wordt vervolgens een boeking gemaakt waarbij de tussenrekening van de levering wordt tegengeboekt. Daarnaast zal de omzet en de kostprijs geboekt worden....
+---
+
+### Magazijnontvangsten
+Magazijnontvangst aanmaken
+Wanneer je goederen binnenkomen is het tijd om een magazijnontvangst te maken.
+Ga naar hiervoor naar: Voorraad > 
+
+### Magazijnontvangsten
+ > Invoeren magazijnontvangsten.
+Selecteer de debiteur
+Onder het kopje ontvangstregel kunnen de ontvangstgegevens worden ingevuld.
+Voor het koppelen van een bestelling, klik je op Info bestelling.
+Selecteer de optie de desbetreffende bestelling die binnen is gekomen.
+Vervolgens klik je op Selecteren.
+Controleer de bestelling en klik op Overnemen.
+Als er van de binnengekomen goederen geen bestelling aanwezig is, klik je op Toevoegen en selecteer je de binnengekomen artikelen handmatig.
+Heb je minder goederen ontvangen dan je hebt besteld? Pas dan het Aantal ontvangen goederen aan.
+Klik vervolgens op Overnemen
+Nu opent het scherm Verwerken magazijnontvangsten
+Klik nogmaals op Verwerken.
+De voorraad wordt nu opgeboekt
+Magazijnontvangst vanuit een bestelling
+Wanneer je goederen binnenkomen is het tijd om een magazijnontvangst te maken. Dit is mogelijk om vanuit je openstaande bestellingen te doen. Ga hiervoor naar:
+Voorraad > Bestellingen > Openstaande bestellingen.
+Selecteer de bestelling waarvan de goederen zijn binnengekomen.
+Selecteer de optie de knop Mag. Ontvangst.
+Heb je minder goederen ontvangen dan je hebt besteld? Pas dan het Aantal ontvangen goederen aan
+Klik vervolgens op Verwerken
+Nu opent het scherm Verwerken magazijnontvangsten
+Klik nogmaals op Verwerken
+De voorraad wordt nu opgeboekt...
+
+### Journaalpost op tussenrekening inkoop
+Factuur boeken en koppelen aan ontvangst
+Zodra de magazijnontvangst is verwerkt kan aan de hand hiervan een inkoopfactuur worden geboekt.
+Ga hiervoor naar: Financieel > Invoeren voorlopige journaalposten
+Selecteer het dagboek (vaak is dit Inkoop)
+Vul bij rekeningnummer de leverancier in.
+Voer de factuurdatum en het factuurnummer van de leverancier in.
+Selecteer de optie toevoegen en kies bij de volgende regel voor de Tussenrekening inkopen
+Klik in Fact./Ref.nr. en vervolgens op de “i“
+Het onderstaande scherm komt naar voren.
+Markeer de magazijnontvangst en door te zoeken op het ontvangstnummer in kolom Referentienummer
+Klik vervolgens op Gemarkeerde overnemen
+Boek vervolgens eventuele transportkosten of overige kosten.
+Als er nog een saldo overblijft kun je dit op een rekening voor prijsverschillen boeken.
+Met de sneltoets F7 in het veld bedrag vul je direct het bedrag in om de boeking in balans te maken
+Het saldo van de boeking moet 0,00 zijn onderin het scherm....
+Afsluiten boekjaar
+Voorlopige jaarafsluiting:
+Hierin worden de definitieve en de voorlopige boekingsgangen meegenomen naar de voorlopige beginbalans van het nieuwe boekjaar.
+Er kan dan zowel in het oude als in het nieuwe boekjaar werken.
+Het voorlopig afsluiten van een boekjaar kan meerdere malen worden uitgevoerd.
+Bij iedere voorlopige afsluiting zal de voorlopige beginbalans worden vervangen door een nieuwe voorlopige beginbalans.
+Nieuw boekjaar aanmaken
+Om een boekjaar af te kunnen sluiten, moet er een nieuwboekjaar aangemaakt zijn. 
+Stamgegevens > Periode-indeling > Toevoegen > vul de gegevens in (bv. Boekjaar 2025, Omschrijving: Boekjaar 2025, Soort indeling: Overnemen van vorig jaar) > Doorgaan > Sluiten > Ja
+Back-up maken
+Log in KING in met het boekjaar dat (voorlopig) afgesloten moet worden.
+Maak een back-up via: 
+Algemeen > Administratie > Back-up maken
+Boekjaar voorlopig afsluiten:
+Ga naar Diversen > Afsluiten boekjaar > Voorlopig > *Back-up gemaakt?* > Vul de omschrijving in (bv. Afsluiting boekjaar 2024) > Gegevens volgend boekjaar (kies het volgende boekjaar) > Doorgaan > Doorgaan
+Periodes blokkeren
+Om fouten te voorkomen, kunnen er periodes geblokkeerd worden in een boekjaar. Hierdoor kan er niet meer geboekt worden in die periode.
+Ga naar Stamgegevens > Periode-indeling > Kies het gewenste boekjaar > klik op Wijzigen > De gewenste periode(s) kan nu geblokkeerd worden door het vinkje aan te zetten onder Blokkeren....
+Aanmaken abonnementen
+De optie abonnementen binnen KING is een module die een abonnementenadministratie bijhoudt van overeenkomsten met debiteuren voor het periodiek leveren van een product of dienst.
+Ga naar abonnementen via menupunt Verkopen > Abonnementen > Abonnementen.
+De abonnementen kunnen ook per debiteur bekeken worden; Verkopen > Abonnementen > Abonnementen per debiteur.
+In het geopende venter zie je aan de rechterkant een aantal knoppen:
+Wijzigen: hiermee kan het geselecteerde abonnement aangepast worden
+Toevoegen: hiermee kan er een nieuwe abonnement aangemaakt worden voor een debiteur
+Verwijderen: hiermee kan het geselecteerde abonnement verwijderd worden
+Sluiten: eventuele wijzigen worden opgeslagen als het venster gesloten wordt
+Met de selectievakjes onder Tonen kar er ingesteld worden welke abonnementen moeten worden getoond. (het is mogelijk om beide selectiebakjes aan te vinken):
+Lopende: toont de abonnementen met een versie zonder einddatum of met een einddatum die nog niet verlopen is
+Verlopen: toont de abonnementen met een einddatum die verlopen zijn
+Toevoegen van een abonnement
+Ga naar Verkopen > Abonnementen > Vaste gegevens abonnementen. Hier worden een aantal vaste gegevens ingesteld voor nieuwe abonnementen. Hier staan de gegevens die default overgenomen worden bij het toevoegen van een nieuw abonnement.
+Eerstvolgende code: hier kan een code opgegeven worden voor de aan te maken abonnementen (deze code wordt automatisch opgehoogd).
+Contractperiode: de duur van een contractperiode
+Factuurfrequentie: hier komt de frequentie (dagen, weken, maanden, jaar) waarop gefactureerd moet worden
+Opzegtermijn: termijn voor het opzeggen van het abonnement
+Verzamellijst (vanaf versie Handel): hier wordt aangegeven of de levering van deze order via de verzamellijst moet plaatsvinden.
+Referentie: met de rechtermuisknop kunnen er diverse relevante variabelen opgeroepen worden die in de verkooporder gewenst zijn
+Orderstatus: er kan hier aangeven worden welke status de abonnement-order moet krijgen.
+In het tweede tabblad ‘Defaults regel’  staat onderstaande scherm. Onder de kolom ‘Invoeren’ wordt aangevinkt of bij het aanmaken van een abonnement bij dit veld gegevens ingevoerd moeten worden of dat dit veld standaard wordt overgeslagen. Onder de kolom ‘Default-waarde’ wordt aangegeven welk type regel de eerste regel van een abonnement-order moet worden. Bij onderdeel ‘Prijs/korting automatisch opnieuw bepalen’ kan worden ingesteld hoe de prijzen en kortingen betaald moeten worden (niet/bij nieuwe contractperiode/bij elke factureerfrequentie)
+Als er in de abonnementen extra invoervelden nodig zijn, dan kunnen deze toegevoegd worden op het derde tabblad ‘Vrije rubrieken’. Als er een vrije rubriek is aangemaakt bij het abonnement en dezelfde vrije rubriek is ook aanmaakt bij de vaste gegevens orders/facturering, dan wordt de waarde automatisch ingevuld in de vrije rubriek in de order als er een nieuwe order aangemaakt wordt. Een voorwaarde hierbij is dat beide vrije rubrieken geheel hetzelfde zijn.
+Nu kan er een abonnement aangemaakt worden. Ga naar menupunt Verkopen > Abonnementen > Abonnementen. Selecteer de optie ‘Toevoegen’ in de rechterkolom en selecteer de debiteur waar een abonnement voor aangemaakt moet worden. Wanneer de vaste gegevens (zie hierboven) goed zijn ingevuld, wordt de code van het abonnement automatisch ingevuld. Er kan nu zelf een omschrijving van het abonnement worden toegevoegd.
+Op het eerste tabblad staan de Vaste gegevens. Hier kunnen de gegevens gewijzigd worden wat van toepassing is op de geselecteerde debiteur. Op het volgende tabblad Ordergegevens staan de gegevens van de abonnementen-order, zoals deze ook bij een gewone verkooporder te vinden zijn (dit kan worden aangepast via menupunt Verkopen > Invoeren orders > tabblad Vaste gegevens). De default instellingen van de Orderstatus kunnen hier aangepast worden voor dit abonnement.
+Op het volgende tabblad Regel staat de informatie zoals ook bij de orderregels. Selecteer de optie de rechterkolom op Toevoegen. Hier worden de abonnementsregels ingegeven. Per orderregels kan bij de Kostprijs, Prijs en Kortingen worden aangegeven of deze wel of niet automatisch bepaalt moeten worden bij een nieuwe contractperiode of bij elke factureerfrequentie.
+Voor alle lopende abonnementen kunnen er eenvoudig orders aangemaakt worden voor de komende periode(s). Deze abonnement-orders zijn net als “normale” verkooporders.
+Per abonnement wordt de historie bijgehouden van de aangemaakte orders. Een abonnement-order aanmaken kan via menupunt Verkopen > Abonnementen > Abonnementen–orders aanmaken.
+Hier kunnen orders van de ingegeven Abonnementen aangemaakt worden, via de knop Aanmaken. Op basis van de ingegeven selectie zullen orders aangemaakt worden. Als het abonnement binnen de criteria valt zal er een order worden gegenereerd met de informatie zoals deze binnen het abonnement is aangegeven.
+Selectie:
+Selecteer de Code of de Omschrijving van de abonnementen.
+Tevens kan een selectie op Debiteurnummer of Zoekcode worden ingegeven.
+Geef bij Aanmaken t/m datum de datum in tot wanneer de abonnement-orders worden aangemaakt.
+Met Aanmaken worden de geselecteerde abonnement-orders aangemaakt. Om de abonnement-order terug te vinden en eventueel te bewerken ga naar menupunt Verkopen > Openstaande orders.
+Extra mogelijkheden bij het aanmaken van abonnementen
+Een abonnement kan ook door-gekopieerd worden naar een andere debiteur. Dit kan via menupunt Verkopen > Abonnementen > Abonnementen (ook mogelijk: per debiteur) > Selecteer > Wijzigen of Toevoegen > Knop kopiëren. Het volgende venster verschijnt en in dit venster kunnen de instellingen overgenomen of gewijzigd worden:
+Code: geef een unieke code voor het abonnement in (dit gebeurd automatisch wanneer dit is ingesteld bij de vaste gegevens)
+Omschrijving: de omschrijving van het originele abonnement wordt weergegeven, die kan gewijzigd worden.
+Begindatum/Einddatum: de data van het originele abonnement staan hier, deze kunnen gewijzigd worden.
+Selecteer rechts nog de vertegenwoordiger, de leveringsconditie en betalingsconditie van de debiteur of abonnement.
+Met de knop Toevoegen opent het debiteurvenster. Selecteer hier de betreffende debiteur(en) voor dit abonnement. Dit kan voor één debiteur met de knop Selecteer of markeer eerst de verschillende debiteuren door onder de kolom Markeer een vinkje te plaatsen. Kies daarna voor Gemarkeerde overnemen. Of kies voor Markeer alle/niets of Markering omdraaien en daarna voor Gemarkeerde overnemen.
+Nu is de knop Kopiëren geactiveerd en met deze knop kan er voor alle gekozen debiteuren een abonnement aangemaakt worden. In de kolom Resultaat volgt het abonnement met nummer en er verschijnt een melding met het aantal kopieën dat er zijn gemaakt.
+- 2. Er kan (tijdelijk) een afwijkende prijs voor een abonnement opgeven worden tot de eerstvolgende factureerfrequentie of contactperiode. Dit kan door de keuze van Prijs/korting automatisch bepalen op Niet opnieuw bepalen te zetten. Alleen op deze manier kan een afwijkende prijs ingevoerd worden. Na het invoeren van de afwijkende prijs wordt de keuze van opnieuw bepalen weer op de gewenste keuze gezet.
+- 3. Er kan één abonnement aangemaakt worden met verschillende (prijs-)afspraken. Maak een x aantal versies aan waarvan het eerste abonnement een einddatum heeft en het tweede abonnement na deze einddatum in gaat en zo verder. Dit kan via menupunt Verkopen > Abonnementen > Abonnementen (eventueel: per debiteur) > Knop Wijzigen of Toevoegen.
+Rechts bovenin staan de verschillende versies van dit abonnement in een tabel. De versies krijgen een begindatum en einddatum mee zodat gemakkelijk te zien is welke de huidige is. Bij het openen van het scherm zal de huidige versie geselecteerd worden. Bij het wijzigen van een abonnement kan er gekozen worden om een nieuwe versie aan te maken. Met de versies kunnen wijzigingen binnen een abonnement vastgelegd worden.
+Knoppen bij Versies:
+Toevoegen: Er wordt een nieuwe versie toegevoegd, op basis van de default instellingen.
+Kopiëren: De geselecteerde versie wordt gekopieerd, met uitzondering van de begindatum, einddatum, eerste orderdatum en volgende orderdatum.
+Verwijderen: de geselecteerde versie wordt verwijdert....
+
+### Boekjaar aanmaken of blokkeren
+Nieuw boekjaar aanmaken
+Stamgegevens > Periode-indeling.
+Selecteer de optie Toevoegen.
+Vul het nieuwe boekjaar in.
+Vul een omschrijving in.
+Kies het soort indeling dat je wilt gebruiken.
+Vul eventueel begindatum in.
+Selecteer de optie doorgaan.
+Sluit het onderstaande venster.
+Selecteer de optie Ja.
+Het nieuwe boekjaar is aangemaakt. 
+Boekjaar blokkeren
+Stamgegevens > Periode-indeling.
+Selecteer het boekjaar en klik op wijzigen.
+Zet een vinkje achter Blokkeren Als je het hele boekjaar wil blokkeren. Klik vervolgens op Blokkeer alles. Alle periodes zijn nu geblokkeerd.
+Het is ook mogelijk om bepaalde periodes te blokkeren. Dit kan je doen door een vinkje te zetten achter de periode die je wil blokkeren....
+Productie-order, productie-adviezen en recepten aanmaken
+Productie-orders
+Let op!!!
+Wanneer de Verwerken knop grijs blijft, moet de status van de order nog worden aangepast. Dit kan bij het tabblad Productiegegevens. Zet hier de status op Onderhanden. Wissel een keer van tabblad en de Verwerken knop kleurt blauw.
+Productie-order
+Het is ook mogelijk om een productieorder in delen te produceren:
+Selecteer de optie Voorbereiden
+Kies het aantal te produceren recepten
+Klik vervolgens op Aanpassen
+Selecteer de optie Verwerken en selecteer juiste boekdatum
+Vink alleen de onderste 3 vakjes aan; Componenten afboeken, eindproducten op boeken en productiekosten boeken
+Klik vervolgens op Verwerken
+Productieorder produceren in delen
+Productie-adviezen
+Het is ook mogelijk om een productie-order aan te maken via een productie-advies.
+Ga naar Voorraad > Productie > Productie-adviezen
+Selecteer de optie Toevoegen
+Maak eventueel een selectie van de artikelen
+Selecteer de optie Aanmaken
+Er komt een overzicht van alle artikelen die geproduceerd moeten worden
+Selecteer een artikelregel en kies of er Eén productieorder geplaatst moet worden of Alle productieorders
+Bij Eén productieorder wordt alleen de regel die geselecteerd is geproduceerd, bij Alle productieorders wordt het hele advies geproduceerd.
+Selecteer de optie Doorgaan
+Volg opnieuw de stappen zoals hierboven aangegeven
+Productieadviezen
+Let op!!!
+Alleen artikelen die zijn aangevinkt als Meenemen in productie-adviezen komen in het productie-advies naar voren.
+Productie-recept
+Bij elke productie-order hoort een recept. In dat recept is o.a. vastgelegd uit welke onderdelen het eindproduct wordt samengesteld. Een productie-recept aanmaken kan via Voorraad > Productie > Recepten
+Selecteer de optie Toevoegen
+Vul een unieke receptcode in
+Zet het soort recept op Productie
+Vul bij Aantal productie-eenheden per verwerking de Productiegrootte en Minimumaantal in 
+Het aantal productie-eenheden per verwerking is het aantal keer dat het recept achter elkaar wordt uitgevoerd.
+Receptgegevens
+Geef onder tabblad Componenten aan uit welke onderdelen of componenten het eindproduct wordt samengesteld. Dit kan door op Toevoegen te klikken.
+Componenten
+Onder tabblad Eindproducten wordt het eindproduct vastgelegd.
+Klik onder het tabblad Eindproducten op Toevoegen en selecteer het eindproduct. Mocht deze nog niet in KING staan, maak dit artikel dan nog aan.
+Vervolgens kan een productieorder worden aangemaakt, via de knop Produceren....
+Banksaldo controleren
+Banksaldo controleren
+Ga naar Financieel > Afdrukken mutaties > Afdrukken dagboekmutaties per stuknummer
+Kies bij Dagboekcode (door op de i te klikken) voor het juiste dagboek waarvan het saldo gecontroleerd dient te worden.
+Kies bij Mutaties sorteren op voor Boekdatum
+Klik daarna op Voorbeeld
+Dit voorbeeld kan naast internetbankieren geplaats worden voor een duidelijk overzicht.
+Met de pijltjes boven aan bij het voorbeeld kan doorgeklikt worden tot aan de specifieke datum waarvan het saldo gecontroleerd dient te worden.
+Verschil controleren
+Ga naar Financieel > Bankieren > Info bankmutaties
+Selecteer de juiste rekening
+Het is mogelijk om op datum een afschrijving te zoeken
+Verschil gevonden?
+Het kan nu worden gewijzigd/verwijderd/toegevoegd
+💡 **Tip:**
+Sla deze afdrukinstelling op. Ga naar Instellingen > Opslaan nieuw. Kies een volgnummer + omschrijving. Eventueel Default aanvinken, hierdoor opent deze afdrukinstelling de volgende keer standaard.
+Banksaldo met definitieve gegevens uit de bank
+Ga naar Bankmutaties > Info regels 
+Hier worden alle mutatieregels weergegeven.
+Bankmutaties
+Via Weergeven > Totalen , worden de totalen uit de bank zichtbaar.
+Het definitieve saldo wat meegegeven is vanuit de bank wordt dan weergegeven....
+Bankmutaties inlezen
+Inlezen van de bank in KING
+Downloaden in de bank:
+Log in op internet bankieren van de desbetreffende bank.
+Ga naar Zelf regelen > Overzichten downloaden.
+Selecteer de optie Bij- en afschrijvingen downloaden.
+Selecteer de juiste rekening, periode en het formaat Camt.053
+Selecteer de optie Download en sla het bestand op.
+Inlezen in KING:
+Via menupunt Financieel > Bankieren > Inlezen bestand met mutaties, kan het rekeningafschrift van de bank worden ingelezen.
+Kies voor bestandformaat CAMT.053
+Klik in het bestandsnaam en zoek via het gele mapje naar het uit de bank gedownloade bestand.
+Selecteer de optie Inlezen....
+Ontbrekende bankmutaties ophalen en inlezen Rabobank
+Bepaal eerst in KING bij Financieel > Bankieren > Bankmutaties van welke datum de bankafschriften van de Rabobank missen.
+Log vervolgens in op internetbankieren van de Rabobank en ga naar het menu waar je mutaties kunt downloaden:
+Geef bij ‘van datum’ en ’t/m datum’ de dag op waarvan de mutaties missen. Download één bestand per dag.
+Het bestandstype moet CAMT.053(.xml) zijn. Download het bestand.
+Open KING en ga naar Financieel > Bankieren > Inlezen bestand met mutaties
+Selecteer de optie het gele mapje achter Bestandsnaam en zoek op de computer naar het gedownloade bestand.
+Inlezen bestand mutaties
+Selecteer het desbetreffende afschrift en klik op Openen
+Bestand openen
+Vervolgens komt het venster met inlezen bestand met mutaties weer naar voren. Selecteer de optie Inlezen.
+Inlezen bestand met mutaties
+Herhaal deze stappen voor de mutatiedagen die missen.
+Verwerk de ingelezen afschriften op de manier die je gewend bent....
+Factuur en creditfactuur wegboeken
+Een factuur en creditfactuur tegen elkaar wegboeken kan op de volgende manier:
+Ga naar Financieel > Invoeren voorlopige journaalposten > Kies dagboek Memo
+Vul de omschrijving in met ‘Correctie openstaande posten’
+Kies in het veld Rekeningnummer de debiteur.
+Invoeren voorlopige journaalposten
+Kies bij Fact./ref.nr de facturen die afgeboekt moeten worden via “i” (klik eerst in het veld)
+Factuur/referentienummer
+Selecteer de openstaande posten die geboekt moeten worden en klik op Boeken
+Ter controle: het geselecteerde bedrag komt op €0,-
+Boeken
+Klik eventueel op Toevoegen om bovenstaande te herhalen of op Sluiten van het scherm wanneer het klaar is.
+Toevoegen of sluiten
+Op de lijst met openstaande posten zijn bovenstaande facturen hierna niet meer zichtbaar...
+Verschil in de BTW of ICP aangifte vinden/corrigeren
+Verkoop controleren
+Controleer eerst alle verkoop boekingen. Wanneer er omzet is geboekt op een binnenlandse klant of een klant buiten de EU met BTW 0% dat eigenlijk bedoeld is voor binnen de EU, dan vind je dat terug met behulp van het volgende overzicht:
+Ga via het menupunt Financieel > Aangiften > Afdrukken omzet per BTW-nummer
+Zet het vinkje bij Selectie aan
+Kies de juiste periode bij Van maand – T/m maand
+Kies bij Aanvullende selectie debiteuren voor Geen
+Kies bij Rubriek aangifte voor 3b – Leveringen naar/diensten in landen binnen de EU
+Zet het vinkje bij Debiteuren van eigen land afdrukken aan
+Zet het vinkje bij Diensten afdrukken aan
+Klik daarna op Voorbeeld
+Er komt nu een overzicht in beeld met de gegevens.
+Journaalposten controleren
+Wanneer er bij bijvoorbeeld inkoop gebruik is gemaakt van de BTW-code voor verkoop 0% BTW binnen de EU, dan kunnen we dit als volgt terugvinden. Om het te controleren, ga naar Financieel > Info mutaties > Info journaal uitgebreid 
+Hier is alles te zien wat er geboekt is.
+In dit scherm hebben we alle boekingen staan met de BTW-codes die gebruikt zijn. Vrij ver naar rechts in dit scherm vinden we de kolom BTW, sorteer hierop en zoek links onderin op de juiste BTW-code. (Ook de kolommen met hulprek. kunnen worden gebruikt) 
+Controleer in de periode van de aangifte of er geen boekingen gedaan zijn in andere dagboeken dan het dagboek voor verkoop.
+Corrigeren
+Wanneer er een factuur is gemaakt voor de klant met de verkeerde BTW-code, dan kunnen deze het best worden gecrediteerd en opnieuw gefactureerd. De ICP- en BTW aangifte zouden vervolgens weer moeten aansluiten.
+Wanneer er in een andere boeking gebruik is gemaakt van de verkeerde BTW-code, wijzig dan eenvoudig de boeking...
+Vaste Activa
+Met deze module kan de activa, zoals kantoorinventaris, machines, autopark, goodwill, enz. bijgehouden worden in King, inclusief de afschrijvingen. De Activamodule werkt als grote lijnen als volgt:
+Vaste gegevens activa
+Eerst legt u de vaste gegevens en één of meer activasjablonen vast. Deze kunt u op de volgende manier vinden; Financieel > Activa > Vaste gegevens activa.
+Selecteer de optie toevoegen.
+Je krijgt vervolgens het scherm te zien zoals aan de rechterzijde.
+Code
+Hier moet je de code van het sjabloon invullen. De code moet uniek zijn en is achteraf niet te wijzigen.
+Zoekcode en omschrijving
+Aan elke sjabloon en omschrijving kan een zoekcode en een omschrijving worden gekoppeld.
+Ga naar tabblad Algemeen. Hier worden de algemene instellingen vastgelegd.
+Genereren activacode
+Hier kan worden aangegeven of je de activacodes zelf invoert of dat je ze KING laat genereren.
+Als je KING de code laat genereren selecteer je het vakje automatisch genereren.
+Vervolgens kan ingesteld worden hoe de gegenereerde codes eruit moet komen te zien. De code bestaat uit een volgnummer met ervóór en erachter eventueel een vaste tekst.
+Wat je in de sjabloon vastlegt kan bij het aanmaken van de activa nog worden gewijzigd.
+Onder het tabblad rekeningen worden de grootboekrekeningen ingevuld die als standaard worden gebruikt bij het maken van een nieuwe activum.
+Grootboekrekeningen investering
+Bij het boeken van de investeringen worden de volgende grootboekrekeningen gebruikt.
+Activa: Op deze rekening wordt de aanschafwaarde van de activa geboekt. Je kunt hier het beste een rekening selecteren van het type Balans of Activa.
+Tussenrekening inkoopfacturen: Boek je de inkoopfactuur niet tegelijk met de investering, dan wordt de aanschafwaarde van het activum tijdelijk op deze tussenrekening geboekt. Bij het boeken van de inkoopfactuur boek je het bedrag weer van deze rekening af.
+Grootboekrekeningen afschrijvingen
+Bij het boeken van een afschrijving worden de volgende grootboekrekeningen gebruikt.
+Afschrijving activa: Op deze rekening worden de afgeschreven bedragen geboekt.
+Afschrijvingskosten: De afgeschreven bedragen worden geboekt als afschrijvingskosten.
+Grootboekrekeningen verkopen
+Bij het boeken van de verkoop worden de aanschafwaarde en de afschrijvingen tegengeboekt, wordt de verkoopprijs geboekt als kostprijs verkopen en wordt het verschil tussen de verkoopprijs en de boekwaarde geboekt als winst of verlies
+Kostprijs verkopen: Je kunt hier het beste een rekening selecteren van het type Resultaat of Kosten.
+Boekwinst: Verkoop je het activum met winst, dan wordt die op deze rekening geboekt. Je kunt hier het beste een rekening selecteren van het type Resultaat of Opbrengsten.
+Boekverlies: Verkoop je het activum met verlies, dan wordt dat op deze rekening geboekt. Je kunt hier het beste een rekening selecteren van het type Resultaat of Kosten.
+Aanmaken sjabloon vaste Activa
+Om de Activa in te kunnen voeren, dien je één of meer activasjablonen aan te maken. Met deze sjablonen kan de activa snel ingevoerd. Om de activasjablonen aan te maken ga je naar: Financieel > Activa > Activa sjablonen.
+Code
+Hier moet je de code van het sjabloon invullen. De code moet uniek zijn en is achteraf niet te wijzigen.
+Zoekcode en omschrijving
+Aan elke sjabloon en omschrijving kan een zoekcode en een omschrijving worden gekoppeld.
+Ga naar tabblad Algemeen. Hier worden de algemene instellingen vastgelegd.
+Activasjabloongegevens
+Genereren activacode
+Hier kan worden aangegeven of je de activacodes zelf invoert of dat je ze KING laat genereren.
+Als je KING de code laat genereren selecteer je het vakje automatisch genereren.
+Vervolgens kan ingesteld worden hoe de gegenereerde codes eruit moet komen te zien. De code bestaat uit een volgnummer met ervóór en erachter eventueel een vaste tekst.
+Wat je in de sjabloon vastlegt kan bij het aanmaken van de activa nog worden gewijzigd.
+Onder het tabblad rekeningen worden de grootboekrekeningen ingevuld die als standaard worden gebruikt bij het maken van een nieuwe activum.
+Grootboekrekeningen investering
+Bij het boeken van de investeringen worden de volgende grootboekrekeningen gebruikt.
+Activa: Op deze rekening wordt de aanschafwaarde van de activa geboekt. Je kunt hier het beste een rekening selecteren van het type Balans of Activa.
+Tussenrekening inkoopfacturen: Boek je de inkoopfactuur niet tegelijk met de investering, dan wordt de aanschafwaarde van het activum tijdelijk op deze tussenrekening geboekt. Bij het boeken van de inkoopfactuur boek je het bedrag weer van deze rekening af.
+Grootboekrekeningen afschrijvingen
+Bij het boeken van een afschrijving worden de volgende grootboekrekeningen gebruikt.
+Afschrijving activa: Op deze rekening worden de afgeschreven bedragen geboekt.
+Afschrijvingskosten: De afgeschreven bedragen worden geboekt als afschrijvingskosten.
+Grootboekrekeningen verkopen
+Bij het boeken van de verkoop worden de aanschafwaarde en de afschrijvingen tegengeboekt, wordt de verkoopprijs geboekt als kostprijs verkopen en wordt het verschil tussen de verkoopprijs en de boekwaarde geboekt als winst of verlies
+Kostprijs verkopen: Je kunt hier het beste een rekening selecteren van het type Resultaat of Kosten.
+Boekwinst: Verkoop je het activum met winst, dan wordt die op deze rekening geboekt. Je kunt hier het beste een rekening selecteren van het type Resultaat of Opbrengsten.
+Boekverlies: Verkoop je het activum met verlies, dan wordt dat op deze rekening geboekt. Je kunt hier het beste een rekening selecteren van het type Resultaat of Kosten.
+Grootboekrekening overige vervreemding
+Bij het boeken van een overige vervreemding, worden de aanschafwaarde en de afschrijvingen tegengeboekt, en wordt de boekwaarde van het gedesinvesteerde deel afgeboekt.
+Kosten vervreemding: je kunt hier het beste een rekening selecteren van het type Resultaat of Kosten.
+Onder de overige twee tabbladen kunnen nog vaste gegevens worden ingesteld met betrekking tot de investering en de afschrijvingen daarvan.
+Alles wat onder de vaste gegevens worden vastgelegd kan bij het toevoegen van de activa nog worden gewijzigd.
+Invoeren Activa
+Om de Activa in te kunnen voeren ga je naar: Financieel > Activa > Activa.
+Selecteer de optie Toevoegen en selecteer een activasjabloon. Op basis hiervan wordt het activum aangemaakt.
+Je krijgt vervolgens onderstaand scherm te zien. In dit scherm kan je een bestaande activum ook inzien en wijzigen.
+Heb je de optie Vaste Activa aangeschaft terwijl de investering en afschrijvingen van je activa al in King geboekt waren? In dat geval kan je het beste kiezen voor Invoeren beginstand in het Muteren-menu. Je kan de activa dan invoeren zonder dat er iets geboekt wordt. Links onderaan op het venster verschijnt de tekst Invoeren beginstand. Omdat er niets geboekt wordt, kan je deze activa gewoon invoeren in het huidige boekjaar.
+Als je in het scherm staat kan je de code nog eenmaal aanpassen. Vervolgens kan je een zoekcode en omschrijving toekennen. Er kan ook een identificatiecode, locatie en gebruiker worden toegevoegd.
+De tabbladen Rekeningen, (Des)investering en afschrijvingen worden aan de hand van activasjabloon automatisch ingevuld. De instellingen kunnen nog worden gewijzigd.
+Onder het tabblad (Des)investering leg je de gegevens vast die betrekking hebben op de (des)investeringen. Bij het toevoegen van een nieuwe activum worden deze gegevens overgenomen van de gekozen activasjabloon. De standaardgegevens kan je hier uiteraard nog wijzigen.
+Selecteer de optie Boeken investering om de investering te boeken
+Vul vervolgens de gegevens in. Belangrijk: Vul ook de kostenplaats wanneer van toepassing!
+Zodra je de investering van het activum is geboekt vul je de gegevens is met betrekking tot de afschrijvingen. Dit doe je onder het tabblad Afschrijvingen.
+Links boven in de hoek staan de vaste gegevens die je hebt toegevoegd aan het activasjabloon. Links onder in de hoek zie je de huidige financiële gegevens.
+Via de knop “automatisch vullen” kan je de termijnen automatisch laten vullen. Je krijgt onderstaande scherm te zien.
+Vul de gegevens in met betrekking tot de afschrijving. Zodra dit gedaan is en er op Automatisch vullen is gedrukt wordt het bedrag dat je per periode moet betalen onder elkaar te staan. Het is ook mogelijk om de afschrijvingsregels aan te passen.
+Wijzigen
+Met deze knop kun je een regel wijzigen. Dat is alleen mogelijk als die regel nog niet is geboekt.
+Restwaarde
+Hier kan de restwaarde worden gewijzigd. De nog te boeken afschrijvingen worden automatisch aangepast. Het wijzigen van de restwaarde is alleen mogelijk als er nog onverwerkte afschrijvingstermijnen zijn.
+Boeken
+De geselecteerde regel wordt geboekt. Dit is alleen mogelijk als de datum in het huidige boekjaar valt en nog niet geboekt...
+Tussenrekening controleren
+Het kan voorkomen dat boekingen niet in balans zijn.
+Een manier om de tussenrekening te controleren is:
+Ga naar Financieel > Afdrukken mutaties > Saldo-analyse
+Vul in het volgende scherm de nodige gegevens in.
+Selecteer de optie Voorbeeld om een overzicht te krijgen van de tussenrekeningen...
+BTW en ICP (ICL) aangifte aanmaken in KING
+BTW aangifte
+Ga via het menupunt Financieel > Aangiften > Aangiften omzetbelasting
+Selecteer de optie Toevoegen
+Bij Weergeven zet je Definitieve en voorlopige gegevens aan
+OPTIE: Zet het vinkje bij Inclusief correcties over vorige tijdvakken aan
+Klik daarna op Overnemen naar aangifte
+Controleer voor de zekerheid of alle cijfers goed overgenomen zijn. Indien dit zo is, klik op Verzenden.
+Het beeld springt nu naar het tabblad Statusoverzicht (als dit niet zo is, klik op Statusoverzicht)
+Selecteer de optie Ontvangstbevestiging
+         De aangifte is nu verzonden naar de Belastingdienst
+ICP (ICL) aangifte
+Als er bij 3B gegevens staan, moet er ook een ICP aangifte gedaan worden!
+Ga via het menupunt Financieel ­­­> Aangiften > Aangiften intracommunautaire prestaties
+Selecteer de optie Toevoegen
+Selecteer de optie Vul uit admin.
+Controleer de gegevens en klik vervolgens op Overnemen
+ De gegevens komen nu in het scherm te staan. Controleer nogmaals en klik op Verzenden...
+Boeken van afschrijvingen vaste activa
+De maandelijkse afschrijvingen van de vaste activa kan op onderstaande manier worden geboekt binnen KING.
+Ga naar Financieel > Activa > Boeken afschrijvingen activa.
+Selecteer de activacode waarvan de afschrijvingen geboekt moet worden. 
+Kies de datum t/m activacode wanneer de afschrijvingen geboekt moeten worden.
+Kies de boekdatum. Je kan kiezen uit de datum van de afschrijvingstermijn en een handmatig ingevoerde datum. De boekdatum moet in het huidige boekjaar vallen en in een periode die niet geblokkeerd is.
+Selecteer de optie Boeken...
+Betalingsopdrachten
+Betalingsopdrachten inrichten
+Voordat er een betalingsopdracht aangemaakt kan worden, moeten er een aantal andere stappen doorlopen worden.
+Zorg er eerst voor dat hen eigen bankrekeningnummer goed in KING staat. Hiervoor moeten de volgende stappen genomen worden:
+Ga naar Algemeen > Algemene bestanden > Eigen Bankrekeningen.
+Selecteer het bankrekeningnummer en klik op Wijzigen.
+Ga naar tabblad Betalingsopdrachten.
+Vul vervolgens bij Bestandsnaam opdrachten De bestandslocatie in. Het bestand wordt hier opgeslagen.
+Kies hoe het betalingskenmerk gevuld moet worden.
+Eventueel kan er nog een standaard omschrijving in worden gevuld.
+Vervolgens moet het bankrekeningnummer bij de crediteur goed ingevuld worden. Hiervoor moeten de volgende stappen genomen worden:
+Ga via King naar Crediteuren > Crediteuren en open de juiste crediteur.
+Ga naar het tabblad Bankrekeningen.
+De volgende vinkjes dienen aan te staan: Default en Bet.opdr.
+Voor het geval dat bovenstaande vinkjes niet aan staan, onderneem je de volgende stappen: 
+Selecteer de optie Wijzigen
+Klik de vinkjes aan
+Let eventueel op voor buitenlandse bankrekeningen dat de BIC is ingevuld.
+Betalingsvoorstel aanmaken
+Hieronder wordt uitgelegd hoe binnen KING een betalingsvoorstel aangemaakt kan worden.
+Ga naar Crediteuren > Betalingsopdrachten > Aanmaken betalingsopdrachten.
+Klik vervolgens op Toevoegen.
+Maak een filtering welke facturen betaald moeten worden (de instellingen van de vorige keer worden onthouden).
+Pas eventueel de Vervaldatum aan.
+Klik vervolgens op Aanmaken.
+Zelf kiezen welke facturen worden meegenomen in het betalingsvoorstel?
+Klik in het voorstel aan de rechterkant op Toevoegen/Verwijderen.
+Zodra je gaat “toevoegen” Markeer je vervolgens alle facturen die met de betaling meegenomen moet worden.
+Klik vervolgens op Gemarkeerde overnemen.
+Om de betalingsopdracht aan te maken klik je onderin op Opdracht.
+Om de opdracht aan te maken en op te slaan klik je nogmaals op Opdracht.
+Het bestand is aangemaakt en kan worden ingelezen in de bank.
+Aanmaken betalingsvoorstel
+Facturen toevoegen of verwijderen
+Betalingsvoorstel aanpassen
+Mocht het bestand met opdrachten nog niet zijn verzonden of de verzending is niet gelukt. Kan de opdracht nog worden aangepast. De betalingsopdracht moet hiervoor eerst terug worden gezet naar de status Voorstel. Dit doe je als volgt;
+Selecteer de betalingsopdracht.
+Selecteer de optie Annuleren.
+Bevestig de annulering door op Ja te klikken.
+De betalingsopdracht kan aangepast worden...
+Vrije rubriek Abonnementen
+Binnen de abonnementen is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per abonnement. 
+Vrije rubrieken
+Ga naar Verkoop > Abonnementen > Vaste gegevens abonnementen.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Toevoegen om een vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+          Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de abonnementen zijn te vinden onder Verkopen > Abonnementen > desbetreffend abonnement > Vrije rubrieken.
+Belangrijk:
+Als de vrije rubriek binnen de abonnementen en orders volledig overeenkomt (Naam, type en lengte), dan worden de gegevens vanuit het abonnement automatisch bij de vrije rubriek van de order ingevuld...Vrije rubriek Activa
+Binnen de activa is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per activa. 
+Vrije rubrieken
+Ga naar Financieel > Activa > Vaste gegevens activa.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in het scherm Bedrijfsgegevens. In deze tabkaart worden dan alleen de vrije rubrieken van de bedrijfsgegevens weergegeven en de knoppen rechts op de tabkaart hebben dan ook alleen betrekking op de vrije rubrieken van de bedrijfsgegevens.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de activa zijn te vinden onder Financieel > Activa > Activa. 
+Selecteer de activacode en klik op Wijzigen.
+Ga naar het tabblad Vrije Rubrieken...
+Bankmutaties
+Bankmutaties verwerken
+Als het rekeningafschrift ingelezen en geboekt is kun je zien welke regels wel en niet geboekt zijn.
+Ga voor het ingelezen afschrift naar Financieel > Bankieren > Info Bankmutaties.
+Selecteer het betreffende (rode) afschrift en klik op Toevoegen om te boeken (zie onderstaande uitleg).
+Alle zwarte afschriften zijn geboekt en hoef je dus niks meer mee te doen.
+Ontbreken er bankmutaties?
+Controleer of de bankenkoppeling al is bijgewerkt vandaag.
+Voor het verwerken selecteer je de eerste niet geboekte regel (de rode transacties) en klik je op Toevoegen om de regel te boeken.
+Het venster verschijnt met het bedrag dat te boeken is (zie de afbeelding hiernaast).
+Verwerk deze regel nu door deze op de juiste grootboekrekening te boeken. Je kan zoeken naar de juiste rekening door het vakje achter rekeningen te gebruiken (zie de tweede afbeelding hiernaast).
+ Heb je de juiste grootboekrekening geselecteerd, dan kun je met de knop Boeken
+opdracht geven om de journaalpost aan te maken.
+Eventueel kun je bij het boekingsvoorstel aanpassen, je kan hier bijvoorbeeld btw berekenen door bij hulprekening de optie btw-rekening te selecteren of boek een betalingsverschil of -korting af met de hulprekening betalingsverschil.
+Grootboekrekening selecteren
+BTW toevoegen
+Bankmutaties wijzigen
+Je kunt per bankrekening de afschriftregels tonen via menupunt Financieel > Bankieren > Info Bankmutaties.
+Dit venster toont de banktransacties, met rechts onderin per transactie de gemaakte boekingen. De eerste kolom toont of de afschriftregels verwerkt zijn of nog verwerkt moeten worden. De niet-verwerkte afschriftregels kun je verwerken via de knop Toevoegen.
+Je kunt via de knoppen Wijzigen en Verwijderen een geboekte afschriftregel opnieuw boeken of aanpassen.
+Bankmutaties wijzigen
+Herkenningsteksten
+Herkenningsteksten helpen jou om veel meer mutaties automatisch af te boeken direct in de resultaten. Je vind deze herkenningsteksten via menupunt Financieel > Vaste gegevens bankieren en vervolgens het tabblad Herkenningslijst.
+Per herkenningstekst kun je de volgende gegevens invoeren:
+Herkenningstekst
+(Deze dient uniek te zijn)
+Geef hier aan waaraan de mutatie herkend kan worden. Je kunt meer teksten invoeren door ze te scheiden met een puntkomma (;). Er wordt gezocht in de omschrijving (het betalingskenmerk) van de mutatie. Een mutatie wordt herkend als alle hier opgegeven herkenningsteksten worden teruggevonden in de omschrijving van die mutatie.
+Tip:
+Gebruik in de herkenningsteksten geen datums.
+Verwerkingsvolgorde
+Je kunt per herkenningstekst aangegeven dat eerst op bankrekening gezocht moet worden en dan op herkenningstekst of andersom. Werkt de herkenning niet? Wijzig deze dan. 
+Grootboekrekening
+Selecteer hier de grootboekrekening waarop de mutatie moet worden geboekt (eventueel met een kostenplaats en/of kostendrager). Als er een debiteur- of crediteurgrootboekrekening is gevonden, dan wordt verder gezocht naar factuurnummers van die debiteur/crediteur of worden de facturen van de betreffende debiteur/crediteur getoond. 
+Omschrijving journaalregel
+Hier kun je nog een omschrijving opgeven welke de journaalregel moet krijgen, uitgezonderd bij een debiteur- of crediteurgrootboekrekening keuze. Hier zal de factuuromschrijving automatisch worden getoond. 
+Boeking altijd bevestigen
+Selecteer het vakje als deze boeking altijd moet worden bevestigd. Je hebt dan nog de gelegenheid om de boeking te wijzigen of te annuleren. Laat je het vakje leeg, dan wordt de boeking automatisch verwerkt zonder dat je akkoord moet geven...
+Inkoopfacturen inboeken
+Inkoopfacturen inboeken na magazijnontvangsten
+Zodra de magazijnontvangst is verwerkt kan aan de hand hiervan een inkoopfactuur worden gemaakt.
+Ga hiervoor naar: Voorraad > Inkoopfacturen > Invoeren inkoopfacturen
+Selecteer de debiteur.
+Voer het factuurnummer van de leverancier in.
+Kies het tabblad Factuurregel.
+Selecteer de optie Info ontvangsten.
+Het onderstaande scherm komt naar voren.
+Selecteer de magazijnontvangst en klik op Overnemen.
+Klik vervolgens op Verwerken.
+---
+Relaties
+Toevoegen relaties
+Ga via Relaties > Relaties
+Selecteer de optie Toevoegen
+Vul de NAW-gegevens in.
+Is er bij de vaste gegevens relaties gekozen voor automatisch genereren van NAW-nummers, dan wordt dit automatisch aangemaakt.
+Vul vervolgens de tabbladen één voor één in.
+Wijzigen relaties
+Ga via Relaties > Relaties.
+Selecteer de optie Wijzigen.
+Nu kan er een wijziging bij de gewenste relaties worden uitgevoerd. Dit kan zowel de NAW-gegevens zijn als de tabbladen.
+Tabbladen binnen relaties
+Correspondentieadres
+Het correspondentieadres kan hetzelfde zijn als het vestigingsadres.
+Wanneer dit wel het geval is, selecteer je onder het tabblad correspondentie adres: Gelijk aan vestigingsadres.
+Wanneer dit niet het geval is, selecteer je: Anders dan vestgingsadres. Het correspondentieadres moet dan nog ingevuld worden.
+Met de knop Overnemen is het mogelijk om het vestigingsadres of verzendadres automatisch over te nemen.
+Verzendadres
+Wanneer er meerdere verzendadressen toegevoegd moeten worden, kan dit via het tabblad Verzendadr. 
+Klik daarna op de knop Toevoegen
+Kies een nummer dat nog niet in gebruik is.
+Vul de NAW-gegevens in.
+Vul eventueel de tabbladen in. 
+Na het invullen kan op de knop Sluiten geklikt worden. De gegevens worden dan automatisch opgeslagen.
+Contactpersonen (en/of gezinsleden)
+Onder het tabblad Contactpers. kunnen de contactpersonen van een relatie worden toegevoegd. 
+Selecteer de optie Toevoegen.
+Kies een nummer dat nog niet in gebruik is.
+Vul de NAW-gegevens in.
+Onder Aanhefteksten kan de aanhef automatisch worden ingevuld. Dit door op Autom. invullen te klikken.
+Onder Functies kan de functie van de desbetreffende contactpersoon geselecteerd worden.
+Optioneel zijn nog de vrije rubriek, selecties en opmerkingen.
+Documenten 
+Onder het tabblad Documenten kunnen specifieke lay-outs worden ingesteld die voor de relaties van toepassing zijn. Zie documenten koppelen aan relaties.  
+In eerste instantie is per document één afdrukformaat beschikbaar: Afdruk op papier. Het is mogelijk om een extra afdruk op papier of bestand toe te voegen.
+Selecteer de optie Toevoegen linksonder in de hoek.
+Selecteer uitvoerformaat.
+Zodra er een uitvoerformaat is toegevoegd is het mogelijk om het afdrukformaat van het document aan te passen. 
+Ga op de regel staan die aangepast moet worden.
+Aan de rechterkant van het scherm staat het volgende;
+Geef aan of de relaties een afdruk van het document in dit formaat moet ontvangen.
+Onder lay-out excl. BTW en lay-out incl. BTW kan een afwijkende lay-out worden geselecteerd.
+Zodra een document wordt afgedrukt als bestand kan het ook via e-mail worden verzonden naar de relaties. Geef dan aan naar wie de e-mail moet worden verstuurd.
+Belangrijk:
+Hiervoor moet binnen de administratie de optie Documentlayouts per relaties wel geactiveerd zijn.
+Financiële gegevens
+Onder het tabblad Financiële geg. kunnen de financiële gegevens worden vastgelegd. Deze gegevens worden gebruikt als standaardwaarden bij onder meer orderinvoer en facturering.
+Dit is alleen noodzakelijk als de standaard relaties gegevens niet van toepassing zijn.
+Bankrekeningen
+Van elke relatie kunnen de bank- en girorekeningnummers vast worden gelegd.
+Dit kan onder het tabblad Bankrekeningen.
+Deze rekeningnummers worden gebruikt bij het inlezen van banktransacties.
+Selecteer de optie Toevoegen om een bankrekening aan te maken.
+Selecteer Default-rekening als dit het standaard bankrekeningnummer is.
+De rubriek kan ook leeg worden gelaten als een andere rekening bij deze relatie standaard rekening is. Ten minste één rekening moet als standaard zijn ingesteld.
+Selecteer Default voor incasso als de bankrekening gebruik moet worden voor het innen van incasso-opdrachten. 
+De overige gegevens kunnen worden ingevuld onder tabblad Rekeninghouder.
+Onder Machtigingen kunnen de machtigingen worden bijgehouden die afgegeven zijn voor automatische incasso.
+Belangrijk:
+De instellingen voor de automatische incasso is alleen beschikbaar als binnen de administratie deze optie is ingeschakeld.
+Contactregistraties (vanaf King Financieel Plus)
+Onder het tabblad Contactregistratie staat een overzicht van de gesprekken of afspraken die met de relaties zijn vast gelegd.
+Een contactregistratie aanmaken kan via Toevoegen.
+Selecteer Contactsoort.
+De datum en tijd wordt aan de hand van contactsoortinstelling toegevoegd.
+Vervolgens kan er voor een Offerte of Project worden gekozen mocht het contact hiermee te maken hebben.
+Vul onder Contact met de contactpersoon in.
+Eventuele acties of taken kan onder Vervolgacties worden toegevoegd.
+Mocht er gebruik worden gemaakt van digitaal archief, dan kan onder tabblad Digitaal archief documenten worden toegevoegd.
+Digitaal archief (vanaf King Financieel Plus) of E-mail
+Het tabblad Digitaal archief geeft een overzicht van de documenten die op deze relatie betrekking hebben en in King geregistreerd zijn via het digitaal archief.
+Selecteer de optie Toevoegen om de archiefstukken toe te voegen.
+Selecteer de optie Verwijderen om de geselecteerde archiefstuk te verwijderen.
+Klik  op Toon archiefstuk om deze te tonen.
+Belangrijk:
+De optie Digitaal archief moet binnen de administratie zijn ingesteld...
+Debiteuren
+Toevoegen debiteuren
+Ga via Debiteuren > Debiteuren
+Selecteer de optie Toevoegen
+Vul de NAW-gegevens in.
+Heb je bij de vaste gegevens debiteuren gekozen voor automatisch genereren van NAW-nummers, dan wordt dit automatisch aangemaakt.
+Vul vervolgens de tabbladen één voor één in.
+Wijzigen debiteuren
+Ga via Debiteuren > Debiteuren.
+Selecteer de optie Wijzigen.
+Nu kan er een wijziging bij de gewenste debiteur worden uitgevoerd. Dit kunnen de NAW- gegevens zijn of de tabbladen.
+Tabbladen binnen debiteuren
+Correspondentieadres
+Het correspondentieadres kan hetzelfde zijn als het vestigingsadres.
+Wanneer dit wel het geval is, selecteer je onder het tabblad correspondentie adres: Gelijk aan vestigingsadres.
+Wanneer dit niet het geval is, selecteer je: Anders dan vestgingsadres. Het correspondentieadres moet dan nog ingevuld worden.
+Met de knop Overnemen is het mogelijk om het vestigingsadres of verzendadres automatisch over te nemen.
+Verzendadres
+Wanneer er meerdere verzendadressen toegevoegd moeten worden, kan dit via het tabblad Verzendadr. 
+Klik daarna op de knop Toevoegen
+Kies een nummer dat nog niet in gebruik is.
+Vul de NAW- gegevens in.
+Vul eventueel de tabbladen in. 
+Na het invullen kan op de knop Sluiten geklikt worden. De gegevens worden dan automatisch opgeslagen.
+Contactpersonen (en/of gezinsleden)
+Onder het tabblad Contactpers. kunnen de contactpersonen van een debiteur worden toegevoegd. 
+Selecteer de optie Toevoegen.
+Kies een nummer dat nog niet in gebruik is.
+Vul de NAW- gegevens in.
+Onder Aanhefteksten kan de aanhef automatisch worden ingevuld. dit doe je door op Autom. invullen te klikken.
+Onder Functies kan de functie van de desbetreffende contactpersoon geselecteerd worden.
+Optioneel zijn nog de vrije rubriek, selecties en opmerkingen.
+Documenten 
+Onder het tabblad Documenten kunnen specifieke lay-outs worden ingesteld die voor de debiteur van toepassing zijn. Zie documenten koppelen aan debiteuren.  
+In eerste instantie is per document één afdrukformaat beschikbaar: Afdruk op papier. Het is mogelijk om een extra afdruk op papier of bestand toe te voegen.
+Selecteer de optie Toevoegen linksonder in de hoek.
+Selecteer uitvoerformaat.
+Zodra je een uitvoerformaat hebt toegevoegd is het mogelijk om het afdrukformaat van het document aan te passen. 
+Ga op de regel staan die je wilt aanpassen.
+Je ziet aan de rechterkant van het scherm het volgende staan;
+Geef aan of de debiteur een afdruk van het document in dit formaat moet ontvangen.
+Onder layout excl. BTW en layout incl. BTW kan een afwijkende lay-out worden geselecteerd.
+Zodra een document wordt afgedrukt als bestand kan het ook via e-mail worden verzonden naar de debiteur. Geef dan aan naar wie de e-mail moet worden verstuurd.
+Belangrijk:
+Hiervoor moet binnen de administratie de optie Documentlayouts per debiteur wel geactiveerd zijn.  
+Ordergegevens (vanaf King Factureren)
+Met de optie Inkoopcombinatie kan debiteur A een order plaatsen terwijl debiteur B (de inkoopcombinatie) de factuur krijgt.
+De goederen gaan naar de debiteur die de order plaatst. De debiteur die de factuur moet ontvangen, wordt ingevuld onder Debiteurnr. factuur.
+De debiteur waar de omzet moet worden opgeboekt, wordt ingevuld onder Debiteurnr. omzet.
+Het debiteurnr. waarvan de prijsafspraken gebruikt moet worden, vul je onder Debiteurnr. prijzen in.
+Vervolgens kunnen de gegevens worden aangepast voor het maken van verkooporders bij de facturering en bij de levering. Dit is alleen nodig als de standaard debiteur gegevens niet van toepassing zijn.
+Financiële gegevens
+Onder het tabblad Financiële geg. kunnen de financiële gegevens worden vastgelegd. Deze gegevens worden gebruikt als standaardwaarden bij onder meer orderinvoer en facturering.
+Bijvoorbeeld de Betalingsconditie en Leveringsconditie. Dit kan ingesteld worden per debiteur en geeft aan binnen hoe veel dagen de betalingen gedaan moeten worden en wanneer de levering verwacht wordt. Dit kan verschillen per debiteur.
+Dit is alleen noodzakelijk als de standaard debiteur gegevens niet van toepassing zijn.
+Bankrekeningen
+Van elke debiteur kunnen de bank- en girorekeningnummers vast worden gelegd.
+Dit doe je onder het tabblad Bankrekeningen.
+Deze rekeningnummers worden gebruikt bij het inlezen van banktransacties.
+Selecteer de optie Toevoegen om een bankrekening aan te maken.
+Selecteer Default-rekening als dit het standaard bankrekeningnummer is.
+De rubriek kan ook leeg worden gelaten als een andere rekening bij deze debiteur de standaard rekening is. Ten minste één rekening moet als standaard zijn ingesteld.
+Selecteer Default voor incasso als de bankrekening gebruik moet worden voor het innen van incasso-opdrachten. 
+De overige gegevens kunnen worden ingevuld onder tabblad Rekeninghouder.
+Onder Machtigingen kunnen de machtigingen worden bijgehouden die afgegeven zijn voor automatische incasso.
+Belangrijk:
+De instellingen voor de automatische incasso is alleen beschikbaar als binnen de administratie deze optie is ingeschakeld.
+Contactregistraties (vanaf King Financieel Plus)
+Onder het tabblad Contactregistratie vindt je een overzicht van de gesprekken of afspraken die met de debiteur zijn vast gelegd.
+Om een contactregistratie aan te maken klik je op Toevoegen.
+Selecteer Contactsoort.
+De datum en tijd wordt aan de hand van contactsoortinstelling toegevoegd.
+Vervolgens kan er voor een Offerte of Project worden gekozen mocht het contact hiermee te maken hebben.
+Vul onder Contact met de contactpersoon in.
+Eventuele acties of taken kan onder Vervolgacties worden toegevoegd.
+Mocht er gebruik worden gemaakt van digitaal archief, dan kan onder tabblad Digitaal archief documenten worden toegevoegd.
+Digitaal archief (vanaf King Financieel Plus) of E-mail
+Het tabblad Digitaal archief geeft een overzicht van de documenten die op deze debiteur betrekking hebben en in King geregistreerd zijn via het digitaal archief.
+Selecteer de optie Toevoegen om de archiefstukken toe te voegen.
+Selecteer de optie Verwijderen om de geselecteerde archiefstuk te verwijderen.
+Klik  op Toon archiefstuk om deze te tonen.
+Belangrijk:
+De optie Digitaal archief moet binnen de administratie zijn ingesteld...
+Vrije rubriek Relaties
+Binnen de relaties is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per relatie. 
+Vrije rubrieken 
+Ga naar Relaties > Vaste gegevens relaties.
+Kies het NAW-bestand waarvoor jij de vrije rubriek aan wil maken en klik op Wijzigen.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie relaties, contactpersonen of verzendadres.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in het scherm Relaties. In dit scherm worden dan alleen de vrije rubrieken van de relaties weergegeven en de knoppen rechts in dit scherm hebben dan ook alleen betrekking op de vrije rubrieken van de relaties.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de relaties zijn te vinden onder Relaties > Het desbetreffende NAW- bestand > desbetreffende relatie . Ze staan vervolgens naast de NAW gegevens.
+De vrije rubrieken met betrekking tot het verzendadres zijn te vinden onder Relaties > Het desbetreffende NAW- bestand > desbetreffende relatie. Ga vervolgens naar een verzendadres toe en klik op Wijzigen.
+De vrije rubrieken met betrekking tot de contactpersonen zijn te vinden onder Relaties > Het desbetreffende NAW- bestand > desbetreffende relatie. Ga vervolgens naar Contactpersonen en klik op Wijzigen...
+Vrije rubriek Crediteuren
+Binnen de crediteuren is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per crediteur. 
+Vrije rubrieken 
+Ga naar Crediteuren > Vaste gegevens crediteuren.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Crediteuren, Contactpersonen of Besteladres.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in het scherm Besteladres. In dit scherm worden dan alleen de vrije rubrieken van het besteladres weergegeven en de knoppen rechts in dit scherm hebben dan ook alleen betrekking op de vrije rubrieken van het besteladres.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de crediteuren zijn te vinden onder Crediteuren  > Crediteuren > desbetreffende crediteur. Ze staan vervolgens naast de NAW gegevens.
+De vrije rubrieken met betrekking tot het besteladres zijn te vinden onder Crediteuren  > Crediteuren > desbetreffende crediteur. Ga vervolgens naar een besteladres toe en klik op Wijzigen.
+De vrije rubrieken met betrekking tot de contactpersonen zijn te vinden onder Crediteuren  > Crediteuren > desbetreffende crediteur. Ga vervolgens naar Contactpersonen en klik op Wijzigen.
+Belangrijk:
+Als de vrije rubriek binnen de crediteuren en bestellingen volledig overeenkomt (Naam, type en lengte), dan worden de gegevens vanuit de crediteur automatisch bij de vrije rubriek van de bestelling ingevuld...
+Vrije rubriek Debiteuren
+Binnen de debiteuren is het mogelijk om vrije rubrieken aan te maken. Binnen deze rubrieken kan extra informatie worden gevuld per debiteur. 
+Vrije rubrieken 
+Ga naar Debiteuren > Vaste gegevens debiteuren.
+Selecteer de optie Vrije rubrieken.
+Je ziet vervolgens onderstaand scherm.
+Selecteer de optie Debiteuren, Contactpersonen of Verzendadres.
+Selecteer de optie Toevoegen om een nieuwe vrije rubriek toe te voegen.
+Selecteer de optie Verwijderen om een vrije rubriek te verwijderen.
+Met de knoppen Omhoog en Omlaag kan je de volgorde van de rubrieken veranderen.
+Belangrijk:
+Stel je selecteert rechts in dit scherm Verzendadres. In dit scherm worden dan alleen de vrije rubrieken van het verzendadres weergegeven en de knoppen rechts in dit scherm hebben dan ook alleen betrekking op de vrije rubrieken van het verzendadres.
+Toevoegen vrije rubrieken
+Voer de Omschrijving in. De omschrijving is de naam van de rubriek, die vóór het invoerveld wordt weergegeven.
+Geef aan wat voor Soort invoerrubriek er moet komen. Deze kan niet worden veranderd.
+Heb je bij Type gekozen voor Tekst of Getalinvoer, dan kan hier de lengte van de invoerrubriek worden aangegeven. De maximumlengte van een tekstveld is 255 posities en van een getalveld 10.
+Je kan een bestaande rubriek verplicht maken, ook als die nog niet overal is ingevuld. Wil je dit? Dan kan je het vakje achter Verplicht invoeren.
+Bij een verplichte rubriek kun je aangeven dat de invoer van deze rubriek uniek moet zijn.
+Je kan een bestaande rubriek uniek maken, ook al zijn in die rubriek al niet-unieke waarden ingevoerd.
+Onder Sjabloon kan er ingesteld worden welke karakters op welke positie ingevoerd kan worden.
+Als een rubriek NIET uniek is kan een Default-Waarde van een vrije rubriek worden ingesteld.
+Onder Hint is het mogelijk om iets in te vullen, zodat je bij het gebruik ervan een korte toelichting op de vrije rubriek ziet.
+De vrije rubrieken kun je groeperen op een tabkaart of groepsvak . Dit doe je onder de kop Groep. Via de info-knop rechts in het invoerveld kun je een Groep selecteren, wijzigen, toevoegen, etc.
+Belangrijk:
+Heb je bij Type gekozen voor Keuzelijst, klik dan op de knop Keuzes om de keuzelijst samen te stellen. Je komt dan in het venster Gegevens keuzelijst. De lijst kan achteraf altijd nog worden gewijzigd.
+Inzien vrije rubrieken
+De vrije rubrieken met betrekking tot de debiteuren zijn te vinden onder Debiteuren  > Debiteuren > desbetreffende debiteur. Ze staan vervolgens naast de NAW gegevens.
+De vrije rubrieken met betrekking tot het verzendadres zijn te vinden onder Debiteuren  > Debiteuren > desbetreffende debiteur. Ga vervolgens naar een verzendadres toe en klik op Wijzigen.
+De vrije rubrieken met betrekking tot de contactpersonen zijn te vinden onder Debiteuren  > Debiteuren > desbetreffende debiteur. Ga vervolgens naar Contactpersonen en klik op Wijzigen. 
+TIP!
+Als de vrije rubriek binnen de debiteuren en orders volledig overeenkomt (Naam, type en lengte), dan worden de gegevens vanuit het artikel automatisch bij de vrije rubriek van de order ingevuld...
+Crediteuren
+Toevoegen Crediteuren
+Ga via Crediteuren > Crediteuren.
+Selecteer de optie Toevoegen.
+Vul de NAW-gegevens in. Heb je bij de vaste gegevens crediteuren gekozen voor automatisch genereren van NAW-nummers dan worden deze automatisch aangemaakt.
+Vul vervolgens de tabbladen één voor één in.
+Wijzigen crediteuren
+Ga via Crediteuren > Crediteuren.
+Selecteer de optie Wijzigen.
+Nu kan je de wijzigen binnen de debiteur uitvoeren. Dit kunnen de NAW- gegevens zijn of andere gegevens via de tabbladen. 
+Tabbladen binnen Crediteuren
+Correspondentie adres
+Het correspondentieadres kan hetzelfde zijn als het vestigingsadres. In dat geval selecteer je onder het tabblad Correspond.adres > Gelijk aan vestigingsadres. Selecteer Anders dan vestgingsadres als dit niet het geval is en vul het correspondentieadres zelf in.
+Met de knop Overnemen is het mogelijk om het vestigingsadres of verzendadres automatisch over te nemen.
+Besteladres
+Wil je meerdere besteladressen onder de crediteur hebben staan, kan deze onder het tabblad Besteladres worden toegevoegd.
+Dit doe je door op de knop Toevoegen te klikken. 
+Kies een nummer dat nog niet in gebruik is.
+Vul de NAW- gegevens in.
+Vul eventueel de tabbladen in. 
+Contactpersonen
+Onder het tabblad Contactpers. kunnen de contactpersonen van een crediteur worden toegevoegd. 
+Selecteer de optie Toevoegen.
+Kies een nummer dat nog niet in gebruik is.
+Vul de NAW- gegevens in.
+Onder Aanhefteksten kan de aanhef automatisch worden ingevuld. dit doe je door op Autom. invullen te klikken.
+Onder Functies kan je de functie van de desbetreffende contactpersoon selecteren.
+Verder kunnen de vrije rubriek, selecties en eventuele opmerkingen worden ingevuld.
+Financiële gegevens
+Onder het tabblad Financiële geg. kunnen de financiële gegevens worden vastgelegd.
+Bijvoorbeeld de Betalingsconditie en Leveringsconditie. Dit kan ingesteld worden per crediteur en geeft aan binnen hoe veel dagen de betalingen gedaan moeten worden en wanneer de levering verwacht wordt. Dit kan verschillen per crediteur. 
+Dit is alleen noodzakelijk als de standaard crediteur gegevens niet van toepassing zijn.
+Inkoop (vanaf King Handel)
+Onder het tabblad Inkoop kan de inkoopgegevens van de crediteur (leverancier) worden vastgelegd.
+Selecteer Inkoopgegevens bijhouden als je goederen besteld bij de desbetreffende crediteur.
+Selecteer Blokkeren voor bestellen als bij deze leverancier niet besteld mag worden.
+Selecteer Directe leveringen toegestaan als  dit mogelijk is bij de desbetreffende leverancier.
+Stel de eventuele bestelkosten per bestelling in bij deze leverancier. Deze kosten worden ter informatie getoond in het besteladvies.
+De Default-instellingen artikel/leverancier worden gebruikt bij de artikelgegevens.
+Bij Afleverdagen leg je de informatie vast over de afleverdagen van deze leverancier.
+Documenten (vanaf King Handel)
+Onder het tabblad Documenten kunnen specifieke lay-outs worden ingesteld die voor de crediteur van toepassing zijn. Zie documenten koppelen aan crediteuren.  
+In eerste instantie is per document één afdrukformaat beschikbaar: Afdruk op papier. Het is mogelijk om een extra afdruk op papier of bestand toe te voegen.
+Selecteer de optie Toevoegen linksonder in de hoek.
+Selecteer uitvoerformaat.
+Zodra je een uitvoerformaat hebt toegevoegd is het mogelijk om het afdrukformaat van het document aan te passen. 
+Ga op de regel staan die je wilt aanpassen.
+Geef aan of de crediteur een afdruk van het document in dit formaat moet ontvangen.
+Onder layout excl. BTW en layout incl. BTW kan een afwijkende lay-out worden geselecteerd.
+Zodra een document wordt afgedrukt als bestand kan het ook via e-mail worden verzonden naar de crediteur. Geef dan aan naar wie de e-mail moet worden verstuurd.
+Bankrekeningen
+Van elke crediteur kan je de bank- en girorekeningnummers vastleggen. Dit doe je onder het tabblad Bankrekeningen. Deze rekeningnummers worden gebruikt bij het inlezen van banktransacties.
+Selecteer de optie Toevoegen om een bankrekening aan te maken.
+Selecteer Default-rekening als dit het standaard bankrekeningnummer is. De rubriek kan ook leeg worden gelaten als een andere rekening bij deze debiteur de standaard rekening is. Ten minste één rekening moet als standaard zijn ingesteld.
+Selecteer Default voor betalingsopdrachten als de bankrekening gebruik moet worden bij het maken van betalingsopdrachten. 
+De overige gegevens kunnen worden ingevuld onder tabkaart Rekeninghouder en/of Buitenlands betalingsverkeer.
+Selecties
+Onder tabblad selecties kunnen selectiecodes worden gekoppeld, zodat je selecties op het debiteurenbestand kan maken. Er kan alleen selectiecodes worden ingevoerd als in de Vaste gegevens crediteuren een selectiecodetabel is geselecteerd.
+In de kolom Geselecteerd staan de selectiecodes die voor deze crediteur zijn geselecteerd. Selecteer de optie Muteren (onderstaand scherm komt te voorschijn) om selectiecodes toe te voegen of verwijderen. Onder Niet geselecteerd staan de selectiecodes die nog niet geselecteerd zijn.
+Voor het Toevoegen, Wijzigen, Overnemen of Verwijderen van selectiecodes klik je op de knop Selectiecodes.
+Contactregistratie (vanaf King Financieel Plus)
+Onder het tabblad Contactregistratie vindt je een overzicht van de gesprekken of afspraken met deze debiteur die zijn vast gelegd.
+Om een contactregistratie aan te maken klik je op Toevoegen.
+Selecteer contactsoort.
+De datum en tijd wordt aan de hand van contactsoortinstelling toegevoegd.
+Vervolgens kan er voor een offerte of project worden gekozen mocht het contact hier mee te maken hebben.
+Vul onder contact met de contactpersoon in.
+Eventuele acties of taken kan onder Vervolgacties worden toegevoegd.
+Mocht er gebruik worden gemaakt worden digitaal archief dan kan onder tabblad Digitaal archief documenten worden toegevoegd.
+Digitaal archief (vanaf King Financieel Plus)
+Het tabblad Digitaal archief geeft een overzicht van de documenten die op deze debiteur betrekking hebben en in King geregistreerd zijn via het Digitaal archief.
+Selecteer de optie Toevoegen om de archiefstukken toe te voegen.
+Selecteer de optie Verwijderen om de geselecteerde archiefstuk te verwijderen.
+Klik  op Toon archiefstuk om deze te tonen.
+Belangrijk:
+De optie Digitaal archief moet binnen de administratie zijn ingesteld.
+Daarnaast is het mogelijk om de bovengenoemde stappen automatisch te verwerken via macro's of batchverwerking.
+Dit biedt een efficiëntere werkwijze bij het beheren van grote hoeveelheden gegevens.
+
