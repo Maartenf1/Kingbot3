@@ -1,11 +1,20 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import re
 
 # Initialisatie van FastAPI
 app = FastAPI(title="Chatbot Backend", description="API voor chatbot die vragen beantwoordt op basis van handleidingen.")
+
+# CORS-instellingen om de frontend toegang te geven
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Sta ALLE origins toe (tijdelijk voor testen)
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Laad de opgesplitste handleiding
 with open("opgesplitste_handleiding.txt", "r", encoding="utf-8") as file:
